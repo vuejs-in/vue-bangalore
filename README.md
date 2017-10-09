@@ -1,8 +1,7 @@
 <div align="center" style="text-align: center">
   <img src="https://vuejs.org/images/logo.png" width="128" />
+  <h1>Vue Bangalore</h1>
 </div>
-
-## [Vue Bangalore](https://www.meetup.com/vue-bangalore/)
 
 A Vue meetup in Bangalore, India.
 
