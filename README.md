@@ -7,6 +7,8 @@ A Vue meetup in Bangalore, India.
 
 ## What, Why?
 
+[![Join the chat at https://gitter.im/vue-bangalore/Lobby](https://badges.gitter.im/vue-bangalore/Lobby.svg)](https://gitter.im/vue-bangalore/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Vue is the approachable, versatile and performant progressive javascript framework.
 
 What we would like to bring with this meetup:
