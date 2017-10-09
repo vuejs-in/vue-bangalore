@@ -1,13 +1,10 @@
 <div align="center" style="text-align: center">
   <img src="https://vuejs.org/images/logo.png" width="128" />
   <h1>Vue Bangalore</h1>
+  <p>A Vue meetup in Bangalore, India.</p>
 </div>
 
-A Vue meetup in Bangalore, India.
-
 ## What, Why?
-
-[![Join the chat at https://gitter.im/vue-bangalore/Lobby](https://badges.gitter.im/vue-bangalore/Lobby.svg)](https://gitter.im/vue-bangalore/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Vue is the approachable, versatile and performant progressive javascript framework.
 
@@ -26,6 +23,8 @@ We use Meetup platform to manage events. You can find past event here (https://w
 We will be announcing the following meetups as soon as they are ready, please be sure to [sign up on meetup](https://www.meetup.com/vue-bangalore/) to get all the updates and suggest/upvote talks on issues of this repo to select the next talks :)
 
 ## Get in touch
+
+[![Join the chat at https://gitter.im/vue-bangalore/Lobby](https://badges.gitter.im/vue-bangalore/Lobby.svg)](https://gitter.im/vue-bangalore/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Use any of the following methods to communicate with us:
 
