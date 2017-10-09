@@ -37,6 +37,7 @@ Use any of the following methods to communicate with us:
 
 ## Organizers
 
-  - Rahul Kadyan - @znck
+  - Rahul Kadyan - [@znck](https://github.com/znck)
+  - Swapnil Agarwal - [@swapagarwal](https://github.com/swapagarwal)
   - You - All the help is appreciated. If you would like to become an organizer and help the group grow, please contact us :) 
 
