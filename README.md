@@ -1,6 +1,8 @@
-# [Vue Bangalore](https://www.meetup.com/vue-bangalore/)
+<div align="center" style="text-align: center">
+  <img src="https://vuejs.org/images/logo.png" width="128" />
+</div>
 
-<img src="https://vuejs.org/images/logo.png" align="center" />
+## [Vue Bangalore](https://www.meetup.com/vue-bangalore/)
 
 A Vue meetup in Bangalore, India.
 
