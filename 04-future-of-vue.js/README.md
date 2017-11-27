@@ -1,7 +1,7 @@
 # VueBLR #4 - Future of Vue.js
 
 Meetup: [https://www.meetup.com/vue-bangalore/events/244005342](https://www.meetup.com/vue-bangalore/events/244005342)  
-Recoding: [https://www.pscp.tv/rahulkadyan7/1YqKDLDwBgeKV](https://www.pscp.tv/rahulkadyan7/1YqKDLDwBgeKV)
+Recoding: [https://www.pscp.tv/znck/1YqKDLDwBgeKV](https://www.pscp.tv/znck/1YqKDLDwBgeKV)
 
 ## Summary
 
