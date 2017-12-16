@@ -6,8 +6,8 @@ Recoding: [https://www.pscp.tv/w/1jMKgddOEpXGL](https://www.pscp.tv/w/1jMKgddOEp
 ## Summary
 
 - Introduction
-- Talk - [Building SSR capable apps with Nuxt.js](decs/01-building-ssr-capable-apps-with-nuxt.js.pdf) by [Pooya Parsa](https://twitter.com/_pi0_)
-- Talk - [Practices in SSR](decs/02-practices-in-ssr.pdf) by [Rahul Kadyan](https://twitter.com/znck0)
+- Talk - [Building SSR capable apps with Nuxt.js](https://github.com/znck/vue-bangalore/issues/13) by [Pooya Parsa](https://twitter.com/_pi0_) ([deck](./decks/01-building-ssr-capable-apps-with-nuxt.js.pdf))
+- Talk - [Practices in SSR](https://github.com/znck/vue-bangalore/issues/14) by [Rahul Kadyan](https://twitter.com/znck0) ([deck](./decks/02-practices-in-ssr.pdf))
 - Show & Tell - My experience rewriting HasGeek TV to an SPA using Vue.js by [Vidya Ramakrishnan](https://twitter.com/vidya_ramki)
 
 ## Organisers
