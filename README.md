@@ -18,6 +18,9 @@ What we would like to bring with this meetup:
 
 We use Meetup platform to manage events. You can find past event here (https://www.meetup.com/vue-bangalore/events/past).
 
+- VueBLR #4 [Future of Vue.js](04-future-of-vue.js)
+- VueBLR #5 [What's up SSR](05-whats-up-ssr)
+
 ## Upcoming meetups
 
 We will be announcing the following meetups as soon as they are ready, please be sure to [sign up on meetup](https://www.meetup.com/vue-bangalore/) to get all the updates and suggest/upvote talks on issues of this repo to select the next talks :)
