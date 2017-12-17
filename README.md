@@ -18,8 +18,11 @@ What we would like to bring with this meetup:
 
 We use Meetup platform to manage events. You can find past event here (https://www.meetup.com/vue-bangalore/events/past).
 
-- VueBLR #4 [Future of Vue.js](04-future-of-vue.js)
-- VueBLR #5 [What's up SSR](05-whats-up-ssr)
+### Resources
+
+- VueBLR #4 - [Future of Vue.js](04-future-of-vue.js)
+- VueBLR #5 - [What's up SSR](05-whats-up-ssr)
+- VueBLR #6 - Begin Again (Workshop, [get tickets](https://www.townscript.com/e/begin-again-vuejs-workshop-220042))
 
 ## Upcoming meetups
 
