@@ -22,7 +22,7 @@ We use Meetup platform to manage events. You can find past event here (https://w
 
 - VueBLR #4 - [Future of Vue.js](04-future-of-vue.js)
 - VueBLR #5 - [What's up SSR](05-whats-up-ssr)
-- VueBLR #6 - [Begin Again](06-begin-again) (Workshop)
+- VueBLR #6 - [Begin Again](//github.com/znck/begin-again-workshop) (Workshop)
 - VueBLR #7 - [Building Mobile Apps](07-building-mobile-apps) ([RSVP](https://www.meetup.com/vue-bangalore/events/248996945))
 
 ## Upcoming meetups
