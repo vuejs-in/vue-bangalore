@@ -6,7 +6,7 @@ Meetup: [https://www.meetup.com/vue-bangalore/events/248996945](https://www.meet
 ## Summary
 
 - Introduction
-- Talk - [Mobile applications with NativeScript + Vue](https://github.com/znck/vue-bangalore/issues/7) [Open - You can propose to take this talk!]
+- Talk - [Mobile applications with NativeScript + Vue [+ Typescript]](https://github.com/znck/vue-bangalore/issues/7) by [Arnav Gupta](https://twitter.com/championswimmer)
 - Talk - [Introduction to Quasar framework components using Vue](https://github.com/znck/vue-bangalore/issues/12)  [Open - You can propose to take this talk!]
 - Show & Tell - (20 min) - [Open Spot]
 
@@ -19,4 +19,4 @@ Meetup: [https://www.meetup.com/vue-bangalore/events/248996945](https://www.meet
 
 ## Event Sponsors
 
-<img src="https://hasgeek.com/static/img/hg-banner.png" width=64 title="Venue Partner" />
+<img src="https://hasgeek.com/static/img/hg-banner.png" width=64 title="Venue Partner" />  <img src="https://codingblocks.com/assets/images/cb/cblogo.png" width=128 title="Travel Sponsor" />
