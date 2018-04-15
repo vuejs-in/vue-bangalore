@@ -1,4 +1,4 @@
-# VueBLR #5 - What's up SSR
+# VueBLR #7 - Building Mobile Apps
 
 Meetup: [https://www.meetup.com/vue-bangalore/events/248996945](https://www.meetup.com/vue-bangalore/events/244810555)  
 <!-- Recoding: [https://www.pscp.tv/w/1jMKgddOEpXGL](https://www.pscp.tv/w/1jMKgddOEpXGL) -->
