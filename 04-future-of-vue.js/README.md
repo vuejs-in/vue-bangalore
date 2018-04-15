@@ -8,7 +8,7 @@ Recoding: [https://www.pscp.tv/znck/1YqKDLDwBgeKV](https://www.pscp.tv/znck/1YqK
 - Introduction - The future of Vue.js ([deck](decks/01-intro-future-of-vue.js.pdf))
 - Talk - [Internals of Vue](https://github.com/znck/vue-bangalore/issues/9) by [Nishant Arora](https://twitter.com/nshntarora) ([deck](decks/02-talk-internals-of-vue.pdf))
 - Break (10 min)
-- Talk - [Testing Vue components](https://github.com/znck/vue-bangalore/issues/3) by [Swapnil Agarwal](https://twitter.com/SwapAgarwal) ([deck](decks/03-talk-testing-vue-components.html))
+- Talk - [Testing Vue components](https://github.com/znck/vue-bangalore/issues/3) by [Swapnil Agarwal](https://twitter.com/SwapAgarwal) ([deck](http://slides.com/swapnilagarwal/testing-vue-components))
 - Show & Tell - [ComponentLib](http://www.componentlib.org) by [Souvik Basu](https://twitter.com/souvikbasu) (10 min)
 
 ## Organisers
