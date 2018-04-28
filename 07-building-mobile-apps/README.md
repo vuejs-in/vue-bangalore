@@ -8,9 +8,11 @@ Meetup: [https://www.meetup.com/vue-bangalore/events/248996945](https://www.meet
 - Introduction
 - Talk - [Mobile applications with NativeScript + Vue [+ Typescript]](https://github.com/znck/vue-bangalore/issues/7)
   - Speaker: [Arnav Gupta](https://twitter.com/championswimmer)
-  - Slide Decks: [PDF](https://speakerdeck.com/championswimmer/nativescript-vue-at-vue-bangalore-number-7)
-- Talk - [Introduction to Quasar framework components using Vue](https://github.com/znck/vue-bangalore/issues/12)  [Open - You can propose to take this talk!]
-- Show & Tell - (20 min) - [Open Spot]
+  - Deck: [PDF](https://speakerdeck.com/championswimmer/nativescript-vue-at-vue-bangalore-number-7)
+- Talk - [Introduction to Quasar framework components using Vue](https://github.com/znck/vue-bangalore/issues/12)
+  - Speaker: [Swapnil Agarwal](https://twitter.com/swapagarwal)
+  - Deck: [Slides](http://slides.com/swapnilagarwal/introduction-to-quasar-framework)
+- Show & Tell - [Girish Patil](https://twitter.com/g__patil) on how Vue helped him build a e-certificates platform.
 
 ## Organisers
 
