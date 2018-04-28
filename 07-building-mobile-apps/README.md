@@ -6,7 +6,9 @@ Meetup: [https://www.meetup.com/vue-bangalore/events/248996945](https://www.meet
 ## Summary
 
 - Introduction
-- Talk - [Mobile applications with NativeScript + Vue [+ Typescript]](https://github.com/znck/vue-bangalore/issues/7) by [Arnav Gupta](https://twitter.com/championswimmer)
+- Talk - [Mobile applications with NativeScript + Vue [+ Typescript]](https://github.com/znck/vue-bangalore/issues/7)
+  - Speaker: [Arnav Gupta](https://twitter.com/championswimmer)
+  - Slide Decks: [PDF](https://speakerdeck.com/championswimmer/nativescript-vue-at-vue-bangalore-number-7)
 - Talk - [Introduction to Quasar framework components using Vue](https://github.com/znck/vue-bangalore/issues/12)  [Open - You can propose to take this talk!]
 - Show & Tell - (20 min) - [Open Spot]
 
