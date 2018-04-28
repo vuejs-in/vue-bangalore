@@ -3,7 +3,7 @@
 Meetup: [https://www.meetup.com/vue-bangalore/events/248996945](https://www.meetup.com/vue-bangalore/events/248996945/)  
 <!-- Recoding: [https://www.pscp.tv/w/1jMKgddOEpXGL](https://www.pscp.tv/w/1jMKgddOEpXGL) -->
 
-## Summary
+## Agenda
 
 - Introduction
 - Talk - [Mobile applications with NativeScript + Vue [+ Typescript]](https://github.com/znck/vue-bangalore/issues/7)
@@ -12,15 +12,21 @@ Meetup: [https://www.meetup.com/vue-bangalore/events/248996945](https://www.meet
 - Talk - [Introduction to Quasar framework components using Vue](https://github.com/znck/vue-bangalore/issues/12)
   - Speaker: [Swapnil Agarwal](https://twitter.com/swapagarwal)
   - Deck: [Slides](http://slides.com/swapnilagarwal/introduction-to-quasar-framework)
-- Show & Tell - [Girish Patil](https://twitter.com/g__patil) on how Vue helped him build a e-certificates platform.
+- Show & Tell - [Girish Patil](https://twitter.com/g__patil) on how Vue helped him build an e-certificates platform.
 
-## Organisers
+## Organizers
 
 - [Rahul Kadyan](https://twitter.com/znck)
 - [Swapnil Agarwal](https://twitter.com/SwapAgarwal)
 
-## Community Partners
+## Swag
+
+![](https://user-images.githubusercontent.com/2833845/39399251-37ac3506-4b38-11e8-82bb-da1c1532aed8.jpeg)
 
 ## Event Sponsors
 
-<img src="https://hasgeek.com/static/img/hg-banner.png" width=64 title="Venue Partner" />  <img src="https://codingblocks.com/assets/images/cb/cblogo.png" width=128 title="Travel Sponsor" />
+Venue Partner:
+<img src="https://hasgeek.com/static/img/hg-banner.png" width=64 title="Venue Partner" />
+
+Travel Sponsor:
+<img src="https://codingblocks.com/assets/images/cb/cblogo.png" width=128 title="Travel Sponsor" />
