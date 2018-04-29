@@ -1,7 +1,6 @@
 # VueBLR #7 - Building Mobile Apps
 
 Meetup: [https://www.meetup.com/vue-bangalore/events/248996945](https://www.meetup.com/vue-bangalore/events/248996945/)  
-<!-- Recoding: [https://www.pscp.tv/w/1jMKgddOEpXGL](https://www.pscp.tv/w/1jMKgddOEpXGL) -->
 
 ## Agenda
 
@@ -22,6 +21,12 @@ Meetup: [https://www.meetup.com/vue-bangalore/events/248996945](https://www.meet
 ## Swag
 
 ![](https://user-images.githubusercontent.com/2833845/39399251-37ac3506-4b38-11e8-82bb-da1c1532aed8.jpeg)
+
+## Media
+
+![](https://user-images.githubusercontent.com/2833845/39410607-94d6e0f6-4c18-11e8-8f60-6b1d5d55e43f.jpg)
+
+![](https://user-images.githubusercontent.com/2833845/39410655-6e5ba802-4c19-11e8-8e3c-bd9258428ac1.gif)
 
 ## Event Sponsors
 
