@@ -1,5 +1,5 @@
 <div align="center" style="text-align: center">
-  <img src="https://vuejs.org/images/logo.png" width="128" />
+  <img src="/logo.png" width="240" />
   <h1>Vue Bangalore</h1>
   <p>A Vue meetup in Bangalore, India.</p>
 </div>
@@ -16,14 +16,7 @@ What we would like to bring with this meetup:
 
 ## Meetups
 
-We use Meetup platform to manage events. You can find past event here (https://www.meetup.com/vue-bangalore/events/past).
-
-### Resources
-
-- VueBLR #4 - [Future of Vue.js](04-future-of-vue.js)
-- VueBLR #5 - [What's up SSR](05-whats-up-ssr)
-- VueBLR #6 - [Begin Again](//github.com/znck/begin-again-workshop) (Workshop)
-- VueBLR #7 - [Building Mobile Apps](07-building-mobile-apps)
+We use Meetup platform to manage events. You can find past event on [https://www.meetup.com/vue-bangalore/events/past](https://www.meetup.com/vue-bangalore/events/past).
 
 ## Upcoming meetups
 
@@ -44,7 +37,7 @@ Use any of the following methods to communicate with us:
 
 ## Organizers
 
-  - Rahul Kadyan - [@znck](https://github.com/znck)
+  - Rahul Kadyan - [@znck0](https://github.com/znck)
   - Swapnil Agarwal - [@swapagarwal](https://github.com/swapagarwal)
   - You - All the help is appreciated. If you would like to become an organizer and help the group grow, please contact us :) 
 

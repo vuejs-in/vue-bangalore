@@ -1,0 +1,12 @@
+dependencies:
+  vue-carousel: 0.8.1
+packages:
+  /vue-carousel/0.8.1:
+    dev: false
+    resolution:
+      integrity: sha512-Hc80nLjtawAfOKUqt9HrvpLRtlIQva/n/EPSKJGHcSCMRpsBsMpKEHZsWEScyFXjmfq38yiVWnaAxOYvf4P5sg==
+registry: 'https://registry.npmjs.org/'
+shrinkwrapMinorVersion: 7
+shrinkwrapVersion: 3
+specifiers:
+  vue-carousel: ^0.8.1

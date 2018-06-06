@@ -1,0 +1,22 @@
+{
+  "private": false,
+  "name": "vue-bangalore",
+  "version": "0.0.0",
+  "description": "A Vue meetup in Bangalore, India.",
+  "scripts": {
+    "deploy": "./deploy.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/znck/vue-bangalore.git"
+  },
+  "author": "Rahul Kadyan <hi@znck.me> (https://znck.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/znck/vue-bangalore/issues"
+  },
+  "homepage": "https://blr.vue.community",
+  "dependencies": {
+    "vue-carousel": "^0.8.1"
+  }
+}

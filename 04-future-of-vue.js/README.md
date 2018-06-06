@@ -1,26 +1,39 @@
-# VueBLR #4 - Future of Vue.js
+---
+id: 4
+title: Future of Vue.js
+meetup: 244005342
+agenda:
+  - title: The future of Vue.js
+    type: talk
+    speaker: Rahul Kadyan <@znck0>
+    deck: https://github.com/VueJS-IN/vue-bangalore/raw/master/04-future-of-vue.js/decks/01-intro-future-of-vue.js.pdf
+  - title: Internals of Vue
+    type: talk
+    issue: https://github.com/znck/vue-bangalore/issues/9
+    speaker: Nishant Arora <@nshntarora>
+    deck: https://github.com/VueJS-IN/vue-bangalore/raw/master/04-future-of-vue.js/decks/02-talk-internals-of-vue.pdf
+  - title: Testing Vue components
+    type: talk
+    issue: https://github.com/znck/vue-bangalore/issues/3
+    speaker: Swapnil Agarwal <@SwapAgarwal>
+    deck: http://slides.com/swapnilagarwal/testing-vue-components
+  - title: ComponentLib
+    website: http://www.componentlib.org
+    type: show
+    speaker: Souvik Basu <@souvikbasu>
+photos:
+  - https://secure.meetupstatic.com/photos/event/c/7/0/0/highres_466310944.jpeg
+  - https://secure.meetupstatic.com/photos/event/6/f/0/2/highres_466408418.jpeg
+  - https://secure.meetupstatic.com/photos/event/6/f/0/7/highres_466408423.jpeg
+  - https://secure.meetupstatic.com/photos/event/6/f/0/9/highres_466408425.jpeg
+  - https://secure.meetupstatic.com/photos/event/6/f/0/4/highres_466408420.jpeg
+sponsors:
+  - type: venue
+    sponsor: HasGeek <@hasgeek>
+organizers:
+  - Rahul Kadyan <@znck0>
+  - Swapnil Agarwal <@SwapAgarwal>
+  - Vidya Ramakrishnan (HasGeek) <@vidya_ramki>
+---
 
-Meetup: [https://www.meetup.com/vue-bangalore/events/244005342](https://www.meetup.com/vue-bangalore/events/244005342)  
-Recoding: [https://www.pscp.tv/znck/1YqKDLDwBgeKV](https://www.pscp.tv/znck/1YqKDLDwBgeKV)  
-
-## Summary
-
-- Introduction - The future of Vue.js ([deck](decks/01-intro-future-of-vue.js.pdf))
-- Talk - [Internals of Vue](https://github.com/znck/vue-bangalore/issues/9) by [Nishant Arora](https://twitter.com/nshntarora) ([deck](decks/02-talk-internals-of-vue.pdf))
-- Break (10 min)
-- Talk - [Testing Vue components](https://github.com/znck/vue-bangalore/issues/3) by [Swapnil Agarwal](https://twitter.com/SwapAgarwal) ([deck](http://slides.com/swapnilagarwal/testing-vue-components))
-- Show & Tell - [ComponentLib](http://www.componentlib.org) by [Souvik Basu](https://twitter.com/souvikbasu) (10 min)
-
-## Organisers
-
-- [Rahul Kadyan](https://twitter.com/znck)
-- [Swapnil Agarwal](https://twitter.com/SwapAgarwal)
-
-## Community Partners
-
-- [Vidya Ramakrishnan](https://twitter.com/vidya_ramki), [@hasgeek](https://twitter.com/hasgeek)
-- [Sandhya Ramesh](https://twitter.com/sandygrains), [@hasgeek](https://twitter.com/hasgeek)
-
-## Event Sponsors
-
-<img src="https://hasgeek.com/static/img/hg-banner.png" width=64 title="Venue Partner" />
+<EventPage />
