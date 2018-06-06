@@ -56,32 +56,32 @@ module.exports = {
               group: 'Past Events',
               items: [
                 {
-                  text: 'Hello Vue.js',
-                  link: '/01-hello-vue.js/'
+                  text: '#7 Building Mobile Apps',
+                  link: '/07-building-mobile-apps/'
                 },
                 {
-                  text: 'Step by Step',
-                  link: '/02-step-by-step/'
-                },
-                {
-                  text: 'State Management',
-                  link: '/03-state-management/'
-                },
-                {
-                  text: 'Future of Vue.js',
-                  link: '/04-future-of-vue.js/'
-                },
-                {
-                  text: 'What\'s up SSR',
-                  link: '/05-whats-up-ssr/'
-                },
-                {
-                  text: 'Begin Again',
+                  text: '#6 Begin Again',
                   link: '/06-begin-again/'
                 },
                 {
-                  text: 'Building Mobile Apps',
-                  link: '/07-building-mobile-apps/'
+                  text: '#5 What\'s up SSR',
+                  link: '/05-whats-up-ssr/'
+                },
+                {
+                  text: '#4 Future of Vue.js',
+                  link: '/04-future-of-vue.js/'
+                },
+                {
+                  text: '#3 State Management',
+                  link: '/03-state-management/'
+                },
+                {
+                  text: '#2 Step by Step',
+                  link: '/02-step-by-step/'
+                },
+                {
+                  text: '#1 Hello Vue.js',
+                  link: '/01-hello-vue.js/'
                 }
               ]
             }]
