@@ -3,15 +3,15 @@
     <h3 class="title">{{ title }}</h3>
     <EventSpeaker :speaker="speaker" />
     <ItemRow v-if="deck">
-      <IconDeck slot="icon" />
+      <Icon name="deck" slot="icon" />
       <a :href="deck" target="_blank">Speaker Deck</a>
     </ItemRow>
     <ItemRow v-if="source">
-      <IconGithub slot="icon" />
+      <Icon name="github" slot="icon" />
       <a :href="source" target="_blank">{{ source.replace(/https?:\/\/github.com\//, '') }}</a>
     </ItemRow>
     <ItemRow v-if="issue">
-      <IconRequest slot="icon" />
+      <Icon name="request" slot="icon" />
       <a :href="issue" target="_blank">{{ issue | title }} </a>
     </ItemRow>
   </section>

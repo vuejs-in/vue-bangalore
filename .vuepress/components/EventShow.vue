@@ -3,7 +3,7 @@
     <h3 class="title">{{ title }}</h3>
     <EventSpeaker :speaker="speaker" />
     <ItemRow v-if="website">
-      <IconWebsite slot="icon" />
+      <Icon name="website" slot="icon" />
       <a :href="website" target="_blank">{{ website }}</a>
     </ItemRow>
   </section>

@@ -1,13 +1,13 @@
 <template>
   <Carousel class="gallery" :perPage="1">
     <Slide v-for="photo in photos" :key="photo" class="slide">
-      <img class="img" :src="photo">
+      <img class="img" :src="photo" />
     </Slide>
   </Carousel>
 </template>
 
 <script>
-import { Carousel, Slide } from 'vue-carousel';
+import { Carousel, Slide } from '../../node_modules/vue-carousel/src/index.js'
 
 export default {
   props: ['photos'],
