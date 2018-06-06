@@ -1,5 +1,5 @@
 <div align="center" style="text-align: center">
-  <img src="/logo.png" width="240" />
+  <img src="./logo.png" width="240" />
   <h1>Vue Bangalore</h1>
   <p>A Vue meetup in Bangalore, India.</p>
 </div>
