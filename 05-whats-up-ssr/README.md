@@ -11,7 +11,7 @@ agenda:
   - title: Practices in SSR
     type: talk
     issue: https://github.com/znck/vue-bangalore/issues/14
-    speaker: Rahul Kadyan <@nshntarora>
+    speaker: Rahul Kadyan <@znck0>
     deck: https://github.com/VueJS-IN/vue-bangalore/raw/master/05-whats-up-ssr/decks/02-practices-in-ssr.pdf
   - title: My experience rewriting HasGeek TV to an SPA using Vue.js
     type: tell
