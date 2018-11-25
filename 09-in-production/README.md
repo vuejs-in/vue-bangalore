@@ -11,7 +11,7 @@ agenda:
     speaker: Em Ji Madhu <@emjimadhu>
 sponsors:
   - type: venue
-    sponsor: HasGeek <@hasgeek>
+    sponsor: Myntra <@myntra>
 photos:
   - https://secure.meetupstatic.com/photos/event/5/4/7/b/highres_476601627.jpeg
 organizers:
