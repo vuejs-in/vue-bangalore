@@ -8,7 +8,7 @@
     </ItemRow>
     <ItemRow v-if="issue">
       <Icon name="github" slot="icon" />
-      <a :href="issue" target="_blank">{{ issue | title }} </a>
+      <a :href="issue" target="_blank">{{ issue | filename }} </a>
     </ItemRow>
   </section>
 </template>

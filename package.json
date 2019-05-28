@@ -18,5 +18,8 @@
   "homepage": "https://blr.vue.community",
   "dependencies": {
     "vue-carousel": "^0.8.1"
+  },
+  "devDependencies": {
+    "vuepress": "^1.0.0-alpha.48"
   }
 }
