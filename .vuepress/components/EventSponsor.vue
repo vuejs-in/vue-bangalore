@@ -1,6 +1,6 @@
 <template>
   <ItemRow>
-    <img slot="icon" :src="'http://avatars.io/twitter/' + twitter" class="avatar">
+    <img slot="icon" :src="'//avatars.io/twitter/' + twitter" class="avatar">
     <a :href="'https://twitter.com/' + twitter" target="_blank">
       {{ name }}
     </a>

@@ -16,9 +16,9 @@ agenda:
     type: talk
     issue: https://github.com/znck/vue-bangalore/issues/3
     speaker: Swapnil Agarwal <@SwapAgarwal>
-    deck: http://slides.com/swapnilagarwal/testing-vue-components
+    deck: //slides.com/swapnilagarwal/testing-vue-components
   - title: ComponentLib
-    website: http://www.componentlib.org
+    website: //www.componentlib.org
     type: show
     speaker: Souvik Basu <@souvikbasu>
 photos:

@@ -88,7 +88,7 @@ module.exports = {
           },
           {
             text: 'Meetup',
-            link: 'http://meetup.com/vue-bangalore'
+            link: '//meetup.com/vue-bangalore'
           },
           {
             text: 'Twitter',
