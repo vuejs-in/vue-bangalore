@@ -39,5 +39,6 @@ Use any of the following methods to communicate with us:
 
   - Rahul Kadyan - [@znck0](https://github.com/znck)
   - Swapnil Agarwal - [@swapagarwal](https://github.com/swapagarwal)
+  - Nimit Bhargava - [@nimitbhargava](https://github.com/nimitbhargava)
   - You - All the help is appreciated. If you would like to become an organizer and help the group grow, please contact us :) 
 
