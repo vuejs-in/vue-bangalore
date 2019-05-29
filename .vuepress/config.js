@@ -1,3 +1,5 @@
+const { events } = require('./plugins/events')
+
 module.exports = {
   title: 'Vue BLR',
   description: 'Vue Meetup in Bangalore',
@@ -52,47 +54,12 @@ module.exports = {
         nav: [{
             text: 'Events',
             items: [{
-              group: 'Past Events',
+              group: 'Events',
               items: [
+                ...events.slice(0, 5).map(event => ({ text: `#${event.id} ${event.title}`, link: event.link })),
                 {
-                  text: '#15 State in Design',
-                  link: '/15-state-in-design/'
-                },
-                {
-                  text: '#9 In Production',
-                  link: '/09-in-production/'
-                },
-                {
-                  text: '#8 State of the Vuenion',
-                  link: '/08-state-of-the-vuenion/'
-                },
-                {
-                  text: '#7 Building Mobile Apps',
-                  link: '/0-building-mobile-apps/'
-                },
-                {
-                  text: '#6 Begin Again',
-                  link: '/06-begin-again/'
-                },
-                {
-                  text: '#5 What\'s up SSR',
-                  link: '/05-whats-up-ssr/'
-                },
-                {
-                  text: '#4 Future of Vue.js',
-                  link: '/04-future-of-vue.js/'
-                },
-                {
-                  text: '#3 State Management',
-                  link: '/03-state-management/'
-                },
-                {
-                  text: '#2 Step by Step',
-                  link: '/02-step-by-step/'
-                },
-                {
-                  text: '#1 Hello Vue.js',
-                  link: '/01-hello-vue.js/'
+                  text: 'All events',
+                  link: '/events'
                 }
               ]
             }]

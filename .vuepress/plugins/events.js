@@ -31,3 +31,5 @@ module.exports = function eventsPlugin(options, context) {
   }
 }
 
+module.exports.events = events
+
