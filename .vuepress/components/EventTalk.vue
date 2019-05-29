@@ -1,6 +1,7 @@
 <template>
   <section class="talk">
     <h3 class="title">{{ title }}</h3>
+    <div v-if="description" v-html="description"></div>
     <EventSpeaker :speaker="speaker" />
     <ItemRow v-if="deck">
       <Icon name="deck" slot="icon" />
@@ -15,7 +16,7 @@
 
 <script>
 export default {
-  props: ['title', 'speaker', 'deck', 'issue'],
+  props: ['title', 'description', 'speaker', 'deck', 'issue'],
   filters: {
     filename (value) {
       return value.split('/').pop()

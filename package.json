@@ -4,7 +4,8 @@
   "version": "0.0.0",
   "description": "A Vue meetup in Bangalore, India.",
   "scripts": {
-    "build": "vuepress build ."
+    "build": "vuepress build .",
+    "serve": "vuepress dev ."
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,8 @@
   },
   "homepage": "https://blr.vue.community",
   "dependencies": {
+    "frontmatter": "^0.0.3",
+    "globby": "^9.2.0",
     "vue-carousel": "^0.8.1"
   },
   "devDependencies": {

@@ -1,0 +1,4 @@
+# Events
+
+<UpcomingEvents />
+<PastEvents />

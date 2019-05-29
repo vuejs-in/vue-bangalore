@@ -21,11 +21,19 @@
     </main>
 
     <footer>
+      <section v-if="date">
+        <h2>Details</h2>
+
+        <p><strong>Date:</strong> {{ date.toDateString() }}</p>
+        <p><strong>Time:</strong> {{ $page.frontmatter.time }}</p>
+        <p><strong>Venue:</strong> <a :href="$page.frontmatter.venue.map" target="_blank" rel="noopener noreferrer">{{ $page.frontmatter.venue.name }}</a></p>
+      </section>
+
       <h2>Sponsors</h2>
-      <EventSponsor v-for="(item, index) in $page.frontmatter.sponsors" :key="index" v-bind="item" />
+      <EventSponsor v-for="(item, index) in $page.frontmatter.sponsors" :key="item.sponsor" v-bind="item" />
 
       <h2>Organizers</h2>
-      <EventSpeaker v-for="(item, index) in $page.frontmatter.organizers" :key="index" :speaker="item" />
+      <EventSpeaker v-for="(item, index) in $page.frontmatter.organizers" :key="item" :speaker="item" />
     </footer>
   </div>
 </template>
@@ -41,6 +49,11 @@ export default {
         case 'workshop': return 'EventWorkshop';
         case 'Q&A': return 'EventQuestion';
       }
+    }
+  },
+  computed: {
+    date() {
+      return this.$page.frontmatter.date ? new Date(this.$page.frontmatter.date) : null
     }
   }
 }

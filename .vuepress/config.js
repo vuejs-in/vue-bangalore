@@ -2,14 +2,13 @@ module.exports = {
   title: 'Vue BLR',
   description: 'Vue Meetup in Bangalore',
   ga: 'UA-38503997-3',
+  plugins: [
+    require('./plugins/events')
+  ],
   head: [
     ['link', {
       rel: 'icon',
       href: `/icons/icon-152x152.png`
-    }],
-    ['link', {
-      rel: 'manifest',
-      href: '/manifest.json'
     }],
     ['meta', {
       name: 'theme-color',
@@ -56,8 +55,20 @@ module.exports = {
               group: 'Past Events',
               items: [
                 {
+                  text: '#15 State in Design',
+                  link: '/15-state-in-design/'
+                },
+                {
+                  text: '#9 In Production',
+                  link: '/09-in-production/'
+                },
+                {
+                  text: '#8 State of the Vuenion',
+                  link: '/08-state-of-the-vuenion/'
+                },
+                {
                   text: '#7 Building Mobile Apps',
-                  link: '/07-building-mobile-apps/'
+                  link: '/0-building-mobile-apps/'
                 },
                 {
                   text: '#6 Begin Again',
