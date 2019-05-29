@@ -2,11 +2,11 @@
 export default {
   props: ["id", "title", "date", "time", "venue", "ticket", "link"],
   computed: {
-    hasDate() {
-      return this.date instanceof Date
+    eventDate() {
+      return this.date ? new Date(this.date) : null
     },
     isUpcoming() {
-      return this.date instanceof Date && this.date.getTime() > Date.now();
+      return this.eventDate && this.eventDate.getTime() > Date.now()
     }
   }
 };
@@ -18,10 +18,10 @@ export default {
       #{{ id }} <a :href="link">{{ title }}</a>
     </h3>
 
-    <div v-if="hasDate">
+    <div v-if="eventDate">
       <p>
-        Venue: {{ venue.name }} <br />
-        Time: {{ date.toDateString() }}, {{ time }}
+        <strong>Venue:</strong> {{ venue.name }} (<a :href="venue.map" target="_blank" rel="noopener noreferrer">see on map</a>) <br />
+        <strong>Time:</strong> {{ eventDate.toDateString() }}, {{ time }}
       </p>
 
       <p v-if="isUpcoming && ticket">

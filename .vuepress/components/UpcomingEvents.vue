@@ -8,7 +8,7 @@ export default {
       const now = Date.now()
 
       return events.filter(
-        event => (event.date instanceof Date) && event.date.getTime() >= now
+        event => event.date && new Date(event.date).getTime() >= now
       )
     }
   },

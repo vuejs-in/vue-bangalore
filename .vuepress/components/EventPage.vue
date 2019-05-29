@@ -26,7 +26,7 @@
 
         <p><strong>Date:</strong> {{ date.toDateString() }}</p>
         <p><strong>Time:</strong> {{ $page.frontmatter.time }}</p>
-        <p><strong>Venue:</strong> <a :href="$page.frontmatter.venue.map" target="_blank" rel="noopener noreferrer">{{ $page.frontmatter.venue.name }}</a></p>
+        <p><strong>Venue:</strong> {{ $page.frontmatter.venue.name }} (<a :href="$page.frontmatter.venue.map" target="_blank" rel="noopener noreferrer">see on map</a>)</p>
       </section>
 
       <h2>Sponsors</h2>

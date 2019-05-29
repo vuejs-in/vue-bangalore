@@ -11,7 +11,7 @@ export default {
       const now = Date.now()
 
       const past = events.filter(
-        event => !(event.date instanceof Date) || event.date.getTime() < now
+        event => !event.date || new Date(event.date).getTime() < now
       )
 
       if (typeof this.limit === 'number') {
