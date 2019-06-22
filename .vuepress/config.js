@@ -53,7 +53,8 @@ module.exports = {
       '/': {
         label: 'English',
         selectText: 'Languages',
-        nav: [{
+        nav: [
+          {
             text: 'Events',
             items: [{
               group: 'Events',
@@ -73,6 +74,27 @@ module.exports = {
           {
             text: 'Twitter',
             link: 'https://twitter.com/vueblr'
+          },
+          {
+            text: 'WhatsApp',
+            link: 'http://bit.ly/vueblr-whatsapp'
+          },
+          {
+            text: 'Facebook',
+            items: [
+              {
+                text: 'Page',
+                link: 'https://www.facebook.com/vue.blr'
+              },
+              {
+                text: 'Group',
+                link: 'https://www.facebook.com/groups/vue.blr'
+              }
+            ]
+          },
+          {
+            text: 'Propose a Talk',
+            link: 'http://bit.ly/vueblrcfp'
           }
         ]
       }
