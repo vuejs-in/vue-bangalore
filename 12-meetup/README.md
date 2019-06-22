@@ -18,8 +18,6 @@ agenda:
   - title: Lesspod CMS Code Walkthrough
     type: talk
     speaker: Rajan Chandi <@rajcode>
-  - title: Show & Tell
-    type: show
 sponsors:
   - type: venue
     sponsor: Myntra <@myntra>
