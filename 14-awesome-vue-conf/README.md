@@ -10,7 +10,7 @@ venue:
 agenda:
   - title: Scrollytelling with Vue
     type: talk
-    speaker: Vignesh <>
+    speaker: Vignesh <@vgshenoy>
   - title: Ember and Vue - How they share values?
     type: talk
     speaker: Gokul Kathirvel <@_gokatz>
@@ -40,7 +40,7 @@ agenda:
     speaker: Ajith Ranka <@ajithranka>
   - title: Vuejs store with Shopify
     type: talk
-    speaker: Surinder <>
+    speaker: Surinder <@monkviper>
   - title: VueTable-2 Full-featured datatable component for Vue Applications
     type: talk
     speaker: Ikram <@ikram_shah_v>
