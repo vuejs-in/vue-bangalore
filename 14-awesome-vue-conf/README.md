@@ -11,7 +11,7 @@ agenda:
   - title: Scrollytelling with Vue
     type: talk
     speaker: Vignesh <>
-  - title: Ember and Vue: How they share values?
+  - title: Ember and Vue - How they share values?
     type: talk
     speaker: Gokul Kathirvel <@_gokatz>
   - title: Lessons learned while creating a Design System in Vue.js
@@ -20,7 +20,7 @@ agenda:
   - title: Chrome extension using Vue.js
     type: talk
     speaker: Chetan Sachdev <@cksachdev>
-  - title: zcui: a cli for Vue projects
+  - title: zcui - a cli for Vue projects
     type: talk
     speaker: Hamid Raza <@hasis>
   - title: E2E Testing with Cypress in a Vue
