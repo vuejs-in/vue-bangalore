@@ -16,7 +16,7 @@
       <ul>
         <li v-for="(item, index) in $page.frontmatter.agenda" :key="index">
           <component :is="use(item.type)" v-bind="item" />
-        </li>        
+        </li>
       </ul>
     </main>
 
@@ -27,6 +27,11 @@
         <p><strong>Date:</strong> {{ date.toDateString() }}</p>
         <p><strong>Time:</strong> {{ $page.frontmatter.time }}</p>
         <p><strong>Venue:</strong> {{ $page.frontmatter.venue.name }} (<a :href="$page.frontmatter.venue.map" target="_blank" rel="noopener noreferrer">see on map</a>)</p>
+      </section>
+
+      <section v-if="widget">
+        <h2>Register</h2>
+        <iframe :src="widget" frameborder="10" height="600" width="100%"></iframe>
       </section>
 
       <h2>Sponsors</h2>
@@ -54,6 +59,9 @@ export default {
   computed: {
     date() {
       return this.$page.frontmatter.date ? new Date(this.$page.frontmatter.date) : null
+    },
+    widget() {
+      return this.$page.frontmatter.townscript ? "https://www.townscript.com/widget/" + this.$page.frontmatter.townscript : null;
     }
   }
 }
