@@ -43,7 +43,9 @@ module.exports = {
       content: '#000000'
     }]
   ],
-  serviceWorker: true,
+  serviceWorker: {
+    updatePopup: true
+  },
   themeConfig: {
     repo: 'vuejs-in/vue-bangalore',
     docsDir: '/',
