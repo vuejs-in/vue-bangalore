@@ -3,7 +3,7 @@ id: 16
 title: All In
 meetup: 261796003
 date: 2019-07-20
-time: 14:00 to 17:00
+time: 2 PM - 5 PM
 venue:
   name: Myntra Designs, Audi A Block
   map: https://goo.gl/maps/dBC99A1ae2yKRvVA9

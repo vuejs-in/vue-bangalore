@@ -47,6 +47,7 @@ module.exports = {
     updatePopup: true
   },
   themeConfig: {
+    logo: '/logo.png',
     repo: 'vuejs-in/vue-bangalore',
     docsDir: '/',
     locales: {
