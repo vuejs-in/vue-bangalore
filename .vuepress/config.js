@@ -95,7 +95,11 @@ module.exports = {
           {
             text: 'Propose a Talk',
             link: 'http://bit.ly/vueblrcfp'
-          }
+          },
+          {
+            text: 'Newsletter',
+            link: 'https://buttondown.email/VueBLR'
+          },
         ]
       }
     }
