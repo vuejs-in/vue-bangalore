@@ -7,7 +7,7 @@ time: 14:00 to 17:00
 venue:
   name: Myntra Designs, Audi A Block
   map: https://goo.gl/maps/dBC99A1ae2yKRvVA9
-ticket: https://www.townscript.com/e/vueblr-16/booking
+townscript: vueblr-16
 agenda:
   - title: Server-side rendered apps using Nuxt.js
     type: talk

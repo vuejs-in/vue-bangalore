@@ -1,12 +1,17 @@
 <script>
 export default {
-  props: ["id", "title", "date", "time", "venue", "ticket", "link"],
+  props: ["id", "title", "date", "time", "venue", "townscript", "link"],
   computed: {
     eventDate() {
       return this.date ? new Date(this.date) : null
     },
     isUpcoming() {
       return this.eventDate && this.eventDate.getTime() > Date.now()
+    }
+  },
+  methods: {
+    showTicketsPopup: function() {
+      popup(this.townscript);
     }
   }
 };
@@ -24,8 +29,10 @@ export default {
         <strong>Time:</strong> {{ eventDate.toDateString() }}, {{ time }}
       </p>
 
-      <p v-if="isUpcoming && ticket">
-        <a :href="ticket" target="_blank" rel="noopener noreferrer">Buy tickets</a>
+      <p v-if="isUpcoming && townscript">
+        <button v-on:click="showTicketsPopup" class="tsbutton">Count me in!</button>
+        <noscript id="tsNoJsMsg">Javascript on your browser is not enabled.</noscript>
+        <script src="https://www.townscript.com/popup-widget/townscript-widget.nocache.js" type="text/javascript"></script>
       </p>
     </div>
   </section>
