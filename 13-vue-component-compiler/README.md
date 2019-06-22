@@ -12,8 +12,6 @@ agenda:
   - title: Vue Component Compiler
     type: talk
     speaker: Rahul Kadyan <@znck0>
-  - title: Show & Tell
-    type: show
 sponsors:
   - type: venue
     sponsor: Myntra <@myntra>
