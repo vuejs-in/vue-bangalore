@@ -12,7 +12,7 @@
     <main class="agenda">
       <EventGallery :photos="$page.frontmatter.photos" />
 
-      <h2>Summary</h2>
+      <h2>Agenda</h2>
       <ul>
         <li v-for="(item, index) in $page.frontmatter.agenda" :key="index">
           <component :is="use(item.type)" v-bind="item" />

@@ -12,6 +12,7 @@ agenda:
   - title: Server-side rendered apps using Nuxt.js
     type: talk
     speaker: Honey Thakuria <@HoneyThakuria>
+    bio: I am a Full Stack Developer having 4+ years of experience in building enterprise level apps with the cutting edge technologies. Currently working with AirAsia in Bangalore. Previously, have built a Cricket website for Times Internet (Willow.TV) using Vuex, Nuxt.js, Flask & AWS.
 sponsors:
   - type: venue
     sponsor: Myntra <@myntra>

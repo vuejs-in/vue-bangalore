@@ -1,8 +1,8 @@
 <template>
   <section class="talk">
-    <h3 class="title">{{ title }}</h3>
+    <h3 class="title"><u>Talk</u>: {{ title }}</h3>
     <div v-if="description" v-html="description"></div>
-    <EventSpeaker :speaker="speaker" />
+    <EventSpeaker :speaker="speaker" :bio="bio" />
     <ItemRow v-if="deck">
       <Icon name="deck" slot="icon" />
       <a :href="deck" target="_blank">Speaker Deck</a>
@@ -16,7 +16,7 @@
 
 <script>
 export default {
-  props: ['title', 'description', 'speaker', 'deck', 'issue'],
+  props: ['title', 'description', 'speaker', 'bio', 'deck', 'issue'],
   filters: {
     filename (value) {
       return value.split('/').pop()
@@ -28,13 +28,6 @@ export default {
 <style scoped>
 .talk {
   position: relative;
-}
-.title::before {
-  content: "Talk:";
-  font-size: .5rem;
-  position: absolute;
-  top: -.6em;
-  opacity: .75;
 }
 </style>
 
