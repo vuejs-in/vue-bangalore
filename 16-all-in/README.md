@@ -12,8 +12,11 @@ agenda:
   - title: Server-side rendered apps using Nuxt.js
     type: talk
     speaker: Honey Thakuria <@HoneyThakuria>
+    description: >-
+      <p>Building a full fledged application which is server side rendered, having state management taken care of with modular architecture is always the end goal of a team / individual to build long lasting production ready project.</p>
+      <p>With my experience of building few such projects, I would like share the best practises and the proper approaches with the community.</p>
     bio: I am a Full Stack Developer having 4+ years of experience in building enterprise level apps with the cutting edge technologies. Currently working with AirAsia in Bangalore. Previously, have built a Cricket website for Times Internet (Willow.TV) using Vuex, Nuxt.js, Flask & AWS.
-  - tilte: Simple Truck Fleet Management Software built with Vue
+  - title: Simple Truck Fleet Management Software built with Vue
     description: For TechGig CodeGladiators'19 Hackathon our team has built a Simple Truck Fleet Management Software which has the features to see live location of a vehicle in maps, add/remove data of a Trip, Staff or a Transporter, and integrated some of the Here Maps API for providing features like, Trip Calculator, Route Optimization & Traffic violation finder. This application's frontend is built with VueJS.
     type: show
     speaker: Ikram Shah <@ikram_shah_v>
