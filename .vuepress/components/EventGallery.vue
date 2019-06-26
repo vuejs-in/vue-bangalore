@@ -1,5 +1,5 @@
 <template>
-  <Carousel class="gallery" :perPage="1">
+  <Carousel class="gallery" :perPage="1" :autoplay="true" :loop="true" :navigationEnabled="true">
     <Slide v-for="photo in photos" :key="photo" class="slide">
       <img class="img" :src="photo" />
     </Slide>
