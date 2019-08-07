@@ -2,7 +2,7 @@
 id: 17
 title: Double or Nothing
 meetup: 261796007
-date: 2019-08-10
+date: 2019-08-24
 time: 2 PM - 5 PM
 venue:
   name: Myntra Designs, Audi A Block
@@ -14,7 +14,7 @@ sponsors:
   - type: venue
     sponsor: Myntra <@myntra>
 photos:
-  - https://secure.meetupstatic.com/photos/event/1/d/6/9/highres_483067529.jpeg
+  - https://secure.meetupstatic.com/photos/event/5/e/1/3/highres_483744083.jpeg
 organizers:
   - Rahul Kadyan <@znck0>
   - Swapnil Agarwal <@SwapAgarwal>
