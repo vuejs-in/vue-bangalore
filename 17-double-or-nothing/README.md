@@ -1,6 +1,6 @@
 ---
 id: 17
-title: Step Up
+title: Double or Nothing
 meetup: 261796007
 date: 2019-08-10
 time: 2 PM - 5 PM
