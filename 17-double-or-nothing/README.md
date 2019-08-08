@@ -9,6 +9,21 @@ venue:
   map: https://goo.gl/maps/dBC99A1ae2yKRvVA9
 townscript: vueblr-17
 agenda:
+  - title: Convert your static site to Vue app
+    type: talk
+    speaker: Nimit Bhargava <@NimitBhargava>
+    description: In this talk, we will walkthrough the steps to make a static site to a Vue app. This talk will cover Vue component, vue-router. One can attend this talk with no understanding of Vue.
+    bio: Nimit is a full stack engineer and likes to tinker with web technologies.
+  - title: Understanding Vue's Reactivity System by Building One
+    type: talk
+    speaker: Praveen Puglia <@praveenpuglia>
+    description: We'll gradually go from rendering simple HTML using DOM APIs and to understanding how to build a reactivity system for automatic renders.
+    bio: I love CSS & VueJS. Making CodePen art at https://codepen.io/praveenpuglia. Building tools for Voice Tech, AI, ML at @voicezen.
+  - title: I migrated my entire project from VanillaJS to VueJS
+    description: I recently decided to experiment with Vue, and migrated my entire project from VanillaJS to VueJS. I am working on Product Planet, a platform to learn and practice development and design skills and apply to jobs in product startups. I would like to show how with a component based architecture, SFCs, and Vue-router, creating web apps is a lot more efficient.
+    type: show
+    speaker: Dhruv Bhatia <@dhruvbhatia7>
+    bio: Dhruv is a full stack product developer with 7+ years of experience, and has worked as a product leader in startups and Fortune 500 companies. He was previously associated with Ola, where he worked on Ola Lite, a PWA with 1M+ installs, and other website products.
 
 sponsors:
   - type: venue
