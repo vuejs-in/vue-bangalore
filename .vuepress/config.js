@@ -56,6 +56,10 @@ module.exports = {
         selectText: 'Languages',
         nav: [
           {
+            text: 'Code of Conduct',
+            link: 'https://github.com/VueJS-IN/vue-bangalore/blob/master/CODE_OF_CONDUCT.md'
+          },
+          {
             text: 'Events',
             items: [{
               group: 'Events',
