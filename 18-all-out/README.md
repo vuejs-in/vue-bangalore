@@ -14,7 +14,7 @@ sponsors:
   - type: venue
     sponsor: Myntra <@myntra>
 photos:
-  - https://secure.meetupstatic.com/photos/event/5/e/1/3/highres_483744083.jpeg
+  - https://secure.meetupstatic.com/photos/event/b/5/c/b/highres_484486539.jpeg
 organizers:
   - Rahul Kadyan <@znck0>
   - Swapnil Agarwal <@SwapAgarwal>
