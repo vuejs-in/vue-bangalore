@@ -11,8 +11,6 @@ townscript: vueblr-18
 agenda:
 
 sponsors:
-  - type: venue
-    sponsor: Myntra <@myntra>
 photos:
   - https://secure.meetupstatic.com/photos/event/b/5/c/b/highres_484486539.jpeg
 organizers:
