@@ -6,7 +6,6 @@ date: 2019-09-28
 time: 2 PM - 5 PM
 venue:
   name: Bangalore
-  map:
 townscript: vueblr-18
 agenda:
 
