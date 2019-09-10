@@ -5,7 +5,8 @@ meetup: 264466188
 date: 2019-09-28
 time: 2 PM - 5 PM
 venue:
-  name: Bangalore
+  name: NIMHANS Convention Centre, Bangalore
+  map: https://goo.gl/maps/aucNpTLiTyuwvXNC9
 townscript: vueblr-18
 agenda:
 
