@@ -6,6 +6,10 @@
     </div>
     <div v-if="description" v-html="description" class="description"></div>
     <EventSpeaker :speaker="speaker" :bio="bio" />
+    <ItemRow v-if="deck">
+      <Icon name="deck" slot="icon" />
+      <a :href="deck" target="_blank">Speaker Deck</a>
+    </ItemRow>
     <ItemRow v-if="website">
       <Icon name="website" slot="icon" />
       <a :href="website" target="_blank">{{ website }}</a>
@@ -15,7 +19,7 @@
 
 <script>
 export default {
-  props: ['title', 'speaker', 'website', 'bio', 'description', 'recording'],
+  props: ['title', 'speaker', 'website', 'bio', 'description', 'recording', 'deck'],
   filters: {
     filename (value) {
       return value.split('/').pop()
