@@ -9,38 +9,45 @@ module.exports = {
   ],
   head: [
     ['link', {
+      rel: 'apple-touch-icon',
+      sizes: '180x180',
+      href: '/assets/favicons/apple-touch-icon.png'
+    }],
+    ['link', {
       rel: 'icon',
-      href: `/icons/icon-152x152.png`
+      type: 'image/png',
+      sizes: '32x32',
+      href: '/assets/favicons/favicon-32x32.png'
+    }],
+    ['link', {
+      rel: 'icon',
+      type: 'image/png',
+      sizes: '16x16',
+      href: '/assets/favicons/favicon-16x16.png'
+    }],
+    ['link', {
+      rel: 'shortcut icon',
+      href: '/assets/favicons/favicon.ico'
     }],
     ['meta', {
       name: 'theme-color',
-      content: '#0188DE'
+      content: '#4FC08D'
     }],
     ['meta', {
       name: 'apple-mobile-web-app-capable',
       content: 'yes'
     }],
-    [
-      'meta',
-      {
-        name: 'apple-mobile-web-app-status-bar-style',
-        content: 'black'
-      }
-    ],
-    ['link', {
-      rel: 'apple-touch-icon',
-      href: `/icons/icon-152x152.png`
+    ['meta', {
+      name: 'apple-mobile-web-app-status-bar-style',
+      content: '#4FC08D'
     }],
-    [
-      'meta',
-      {
-        name: 'msapplication-TileImage',
-        content: '/icons/icon-144x144.png'
-      }
-    ],
+    ['meta', {
+      name: 'msapplication-TileImage',
+      content: '/icons/icon-144x144.png'
+    }],
     ['meta', {
       name: 'msapplication-TileColor',
-      content: '#000000'
+      content: '#4FC08D'
     }]
   ],
   serviceWorker: {
