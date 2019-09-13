@@ -1,8 +1,8 @@
 const { events } = require('./plugins/events')
 
 module.exports = {
-  title: 'Vue BLR',
-  description: 'Vue Meetup in Bangalore',
+  title: 'VueBLR',
+  description: 'Vue Meetup in Bangalore, India',
   ga: 'UA-38503997-3',
   plugins: [
     require('./plugins/events')
