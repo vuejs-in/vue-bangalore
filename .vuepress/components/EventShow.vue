@@ -32,4 +32,18 @@ export default {
 .description {
   margin-bottom: 1rem;
 }
+
+.recording {
+  width: 100%;
+  padding-top: 56.29%;
+  position: relative;
+}
+
+iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
 </style>
