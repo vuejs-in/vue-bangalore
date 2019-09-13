@@ -17,7 +17,7 @@ agenda:
   - title: Atomic design using Vue
     type: talk
     recording: https://www.youtube.com/embed/duaDIM3dJH8
-    speaker: Ruphaa Ganesh <@ruphaa95>
+    speaker: Ruphaa Ganesh <@ruphaaganesh>
     description: >
       <p>
         Atomic design is an evolutionary approach of breaking down interfaces into fundamental building blocks and build the system bottom-up. It helps us to build consistent, solid and reusable design systems. This has gained a lot of strength and popularity in recent days.
