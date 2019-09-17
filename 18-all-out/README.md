@@ -17,6 +17,8 @@ agenda:
   - title: Introduction to Progressive Web Apps (PWA)
     type: talk
     speaker: Anant Agarwal<@anantagarwal12>
+    description: deliver app like experience to your users using web technologies.
+    bio: Working as an Technical Architect at Rupeelog financial services, ex-TCSer. Love building software using open source technologies.
 
 sponsors:
 photos:
