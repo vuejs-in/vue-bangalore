@@ -1,8 +1,8 @@
 ---
 id: 19
-title: TBD
+title: Hacktoberfest
 meetup: 264744057
-date: 2019-10-19
+date: 2019-10-12
 time: 2 PM - 5 PM
 venue:
   name: Gojek Tech
@@ -10,7 +10,7 @@ venue:
 townscript: vueblr-19
 sponsors:
 photos:
-  - https://secure.meetupstatic.com/photos/event/c/8/7/e/highres_484791326.jpeg
+  - https://secure.meetupstatic.com/photos/event/4/9/8/a/highres_485478826.jpeg
 organizers:
   - Rahul Kadyan <@znck0>
   - Swapnil Agarwal <@SwapAgarwal>
