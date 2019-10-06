@@ -53,6 +53,7 @@ export default {
         case 'tell': return 'EventTell';
         case 'workshop': return 'EventWorkshop';
         case 'Q&A': return 'EventQuestion';
+        default: return 'EventDefault';
       }
     }
   },
