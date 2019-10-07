@@ -8,6 +8,9 @@ venue:
   name: Gojek Tech
   map: https://goo.gl/maps/qDQfuNR4dwhcmKma8
 townscript: vueblr-19
+agenda:
+  - title: Contribute to the Vue Ecosystem
+    description: It'll be a Hacktoberfest-style special edition meetup, where everyone would go through Vue 3.0's code (open-sourced on Oct 4th) and start contributing to the ecosystem.
 sponsors:
 photos:
   - https://secure.meetupstatic.com/photos/event/4/9/8/a/highres_485478826.jpeg
