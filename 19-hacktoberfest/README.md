@@ -10,6 +10,7 @@ venue:
 townscript: vueblr-19
 agenda:
   - title: Contribute to the Vue Ecosystem
+    recording: https://www.youtube.com/embed/t8uEAWz7abo
     description: It'll be a Hacktoberfest-style special edition meetup, where everyone would go through Vue 3.0's code (open-sourced on Oct 4th) and start contributing to the ecosystem.
 sponsors:
 photos:
