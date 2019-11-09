@@ -8,7 +8,7 @@ townscript: vueblr-20
 photos:
   - https://secure.meetupstatic.com/photos/event/6/f/3/9/highres_485848473.jpeg
 venue:
-  name: Terrace@Hasura, Kormanagala
+  name: Terrace@Hasura, Koramangala
   map: https://goo.gl/maps/AWzAX7YNgc4bZZUv8
 agenda:
   - title: Visual Testing a Vue app
