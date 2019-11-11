@@ -50,3 +50,4 @@ Use any of the following methods to communicate with us:
 - Swapnil Agarwal - [@swapagarwal](https://github.com/swapagarwal)
 - Nimit Bhargava - [@nimitbhargava](https://github.com/nimitbhargava)
 - Sangeeth Sudheer - [@sangeeth96](https://github.com/sangeeth96)
+- Ruphaa Ganesh - [@ruphaa](https://github.com/ruphaa)
