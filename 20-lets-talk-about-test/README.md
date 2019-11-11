@@ -40,6 +40,7 @@ organizers:
   - Swapnil Agarwal <@SwapAgarwal>
   - Nimit Bhargava <@NimitBhargava>
   - Ruphaa Ganesh <@ruphaaganesh>
+  - Sangeeth Sudheer <@sangeeth96>
 
 ---
 
