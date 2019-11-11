@@ -7,6 +7,14 @@ time: 2 PM - 5 PM
 townscript: vueblr-20
 photos:
   - https://secure.meetupstatic.com/photos/event/6/f/3/9/highres_485848473.jpeg
+  - https://secure.meetupstatic.com/photos/event/3/1/d/a/600_486492762.jpeg
+  - https://secure.meetupstatic.com/photos/event/3/3/4/1/600_486493121.jpeg
+  - https://secure.meetupstatic.com/photos/event/3/3/4/2/600_486493122.jpeg
+  - https://secure.meetupstatic.com/photos/event/3/3/4/3/600_486493123.jpeg
+  - https://secure.meetupstatic.com/photos/event/3/3/4/4/600_486493124.jpeg
+  - https://secure.meetupstatic.com/photos/event/3/3/4/5/600_486493125.jpeg
+  - https://secure.meetupstatic.com/photos/event/3/3/4/5/600_486493126.jpeg
+  - https://secure.meetupstatic.com/photos/event/3/3/4/7/600_486493127.jpeg
 venue:
   name: Terrace@Hasura, Koramangala
   map: https://goo.gl/maps/AWzAX7YNgc4bZZUv8
