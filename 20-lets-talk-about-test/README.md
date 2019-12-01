@@ -23,6 +23,7 @@ agenda:
     type: talk
     speaker: Aditya Agarwal <@dev__adi>
     bio: I'm a software developer at HackerRank. I love to write about tech and hang out on Twitter. 
+    recording: https://www.youtube.com/embed/Y9iDAXUv5Rs
     description: How to implement Visual Testing with Cypress end to end framework.
       <br>I'll also talk about
       <br>1. Why is it necessary. 
@@ -31,6 +32,7 @@ agenda:
     type: talk
     speaker: Chandrashekhar
     bio: I'm a frontend developer and a Javascript fan. Currently write Vue and vanilla JS at work, and play with React hooks at night. Evenings are for walks and coffees at Udupis of Bangalore.
+    recording: https://www.youtube.com/embed/_vYqSq-PC3g
     description: People have sung paeans about TDD. Here's one more - but this time, we'll look at the "gotchas", useful workflows/patterns and a way to sneak TDD into your work when your team leaves no time for it in the planning. All in the context of Vue, Jest and the holy ghost of unit tests.
 sponsors:
   - type: venue
