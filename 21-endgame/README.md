@@ -5,8 +5,8 @@ meetup: 265661584
 date: 2019-12-14
 time: 2 PM - 5 PM
 venue:
-  name: Bangalore
-  map: https://goo.gl/maps/nFfKXbFJiEBU6H7H8
+  name: HackerRank, Madiwala
+  map: https://goo.gl/maps/YMrczJHuMfqPC2pn7
 townscript: vueblr-21
 photos:
   - https://secure.meetupstatic.com/photos/event/9/c/3/0/highres_487179984.jpeg
@@ -21,6 +21,9 @@ agenda:
   type: show
   speaker: Karthick Ramachandran <@Js_frontendguy>
   bio: Frontend Engineer at Rorodata. Fullstack developer. Vue and Laravel guy.
+sponsors:
+  - type: venue
+    sponsor: HackerRank <@HackerRank>
 organizers:
   - Rahul Kadyan <@znck0>
   - Swapnil Agarwal <@SwapAgarwal>
