@@ -5,6 +5,9 @@
       <iframe :src="recording" width="100%" height="100%" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />
     </div>
     <div v-if="description" v-html="description"></div>
+    <ItemRow v-if="feedbacks">
+      <FeedbackGallery :feedbacks="feedbacks" />
+    </ItemRow>
     <EventSpeaker :speaker="speaker" :bio="bio" />
     <ItemRow v-if="deck">
       <Icon name="deck" slot="icon" />
@@ -19,7 +22,7 @@
 
 <script>
 export default {
-  props: ['title', 'description', 'speaker', 'bio', 'deck', 'issue', 'recording'],
+  props: ['title', 'description', 'speaker', 'bio', 'deck', 'issue', 'recording', 'feedbacks'],
   filters: {
     filename (value) {
       return value.split('/').pop()

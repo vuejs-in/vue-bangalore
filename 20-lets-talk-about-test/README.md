@@ -28,12 +28,20 @@ agenda:
       <br>I'll also talk about
       <br>1. Why is it necessary. 
       <br>2. What type of bugs can be caught by Visual Testing.
+    feedbacks:
+      - "I liked the use cypress for visual testing. Would like to implement in one of our application."
+      - "I learned that there's a thing called Visual Testing and that's a great way to test visual layouts easily."
+      - "It was something useful for my day to day work. Thanks ✨"
   - title: Revisiting Tests and How to Sneak Test Driven Development Into Your Work
     type: talk
     speaker: Chandrashekhar
     bio: I'm a frontend developer and a Javascript fan. Currently write Vue and vanilla JS at work, and play with React hooks at night. Evenings are for walks and coffees at Udupis of Bangalore.
     recording: https://www.youtube.com/embed/_vYqSq-PC3g
     description: People have sung paeans about TDD. Here's one more - but this time, we'll look at the "gotchas", useful workflows/patterns and a way to sneak TDD into your work when your team leaves no time for it in the planning. All in the context of Vue, Jest and the holy ghost of unit tests.
+    feedbacks:
+      - "I liked the concept of using test driven development in our product. It may help developer a lot to get better code then earlier."
+      - "Loved the idea behind why to test. Testing that drives code discipline."
+      - "Informed and well explained with examples."
 sponsors:
   - type: venue
     sponsor: Hasura <@HasuraHQ>
