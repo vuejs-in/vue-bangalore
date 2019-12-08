@@ -2,7 +2,7 @@
   <div class="feedbacks-wrapper">
     <p>
       <slot>
-        Here are some feedbacks from our attendees for this talk:
+        Here is the verbatim feedback from the audience:
       </slot>
     </p>
     <Carousel
