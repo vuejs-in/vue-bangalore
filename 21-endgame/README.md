@@ -21,6 +21,10 @@ agenda:
   type: show
   speaker: Karthick Ramachandran <@Js_frontendguy>
   bio: Frontend Engineer at Rorodata. Fullstack developer. Vue and Laravel guy.
+- title: Geospatial visualization and analytics is undoubtedly an important factor in helping grow any on-demand or location focused company. In this talk, we’ll take a quick tour of available geospatial visualization tools, touch a bit of science behind location data and learn how to build High-Performance WebGL based geospatial visualizations for the web using deck.gl. <br> Deck.gl is a powerful visualization library for the web. It utilizes GPU for making heavy computation and visualization more accessible right inside the browser. With deck.gl in hand, we’ll explore ways to make use of existing real-world location data and build beautiful visualizations that produce useful insights.
+  type: show
+  speaker: Musthaq Ahamad <@haxzie_>
+  bio: UX Engineer at Locale.ai. Loves to write, design and build for the web. 
 sponsors:
   - type: venue
     sponsor: HackerRank <@HackerRank>
