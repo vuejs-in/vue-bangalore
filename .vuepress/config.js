@@ -103,8 +103,12 @@ module.exports = {
                 link: 'http://bit.ly/vueblr-whatsapp'
               },
               {
+                text: 'LinkedIn',
+                link: 'http://bit.ly/vueblr-whatsapp'
+              },
+              {
                 text: 'Facebook Page',
-                link: 'https://www.facebook.com/vue.blr'
+                link: 'https://www.linkedin.com/company/vueblr'
               },
               {
                 text: 'Facebook Group',
