@@ -16,16 +16,32 @@ agenda:
   speaker: Rahul Kadyan <@znck0>
   bio: Rahul Kadyan is a Software Engineer and Vue Core Team Member. He is super enthusiastic about building accessible web apps, the compilation process of .vue files, and tooling for the Vue ecosystem.
   description: A live coding demo to showcase Vue Composition API and maybe address FUD if that’s still relevant.
+  deck: https://speakerdeck.com/znck/head-first-into-composition-api
+  feedbacks:
+    - "Insight to vue3 great"
+    - "debuging solution ability i like"
+    - "the new features about vue 3 he delivered are very good"
+    - "The introduction to the API was good"
 - title: Blazing fast static sites with graphql and Vue
   description: Building static websites which is powered by Vue and graphql. We're using something called Gridsome. Gridsome makes it easy for developers to build modern websites, apps & PWAs that are fast by default.
   type: show
   speaker: Karthick Ramachandran <@Js_frontendguy>
   bio: Frontend Engineer at Rorodata. Fullstack developer. Vue and Laravel guy.
+  feedbacks:
+    - "Covered the API pretty exhaustively, perhaps a demo would have made it better"
+    - "Good, was expecting live coding"
 - title: Building high-performance geospatial analytics tools using Vue & Deck.gl
   description: Geospatial visualization and analytics is undoubtedly an important factor in helping grow any on-demand or location focused company. In this talk, we’ll take a quick tour of available geospatial visualization tools, touch a bit of science behind location data and learn how to build High-Performance WebGL based geospatial visualizations for the web using deck.gl. <br> Deck.gl is a powerful visualization library for the web. It utilizes GPU for making heavy computation and visualization more accessible right inside the browser. With deck.gl in hand, we’ll explore ways to make use of existing real-world location data and build beautiful visualizations that produce useful insights.
   type: show
   speaker: Musthaq Ahamad <@haxzie_>
-  bio: UX Engineer at Locale.ai. Loves to write, design and build for the web. 
+  bio: UX Engineer at Locale.ai. Loves to write, design and build for the web.
+  deck: https://docs.google.com/presentation/d/1fbLKzNDHRa49FvM0plu5wvIPjcjf1JJXmxxshNvuUvY/edit?usp=drivesdk
+  feedbacks:
+    - "Liked the presentation and delivery"
+    - "Very interesting and systematically conveyed. Well prepared and delivered."
+    - "I like way of explaining"
+    - "Data visualization by mustqua was really good and bp"
+    - "Got a chance to explore more libs"
 sponsors:
   - type: venue
     sponsor: HackerRank <@HackerRank>
