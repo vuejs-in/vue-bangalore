@@ -10,6 +10,11 @@ venue:
 townscript: vueblr-21
 photos:
   - https://secure.meetupstatic.com/photos/event/9/c/3/0/highres_487179984.jpeg
+  - https://secure.meetupstatic.com/photos/event/7/3/b/5/highres_487409621.jpeg
+  - https://secure.meetupstatic.com/photos/event/7/3/b/7/highres_487409623.jpeg
+  - https://secure.meetupstatic.com/photos/event/7/3/b/6/highres_487409622.jpeg
+  - https://secure.meetupstatic.com/photos/event/7/3/b/a/highres_487409626.jpeg
+  - https://secure.meetupstatic.com/photos/event/7/3/b/b/highres_487409627.jpeg
 agenda:
 - title: Head first into composition API
   type: talk
@@ -27,6 +32,7 @@ agenda:
   type: show
   speaker: Karthick Ramachandran <@Js_frontendguy>
   bio: Frontend Engineer at Rorodata. Fullstack developer. Vue and Laravel guy.
+  deck: https://docs.google.com/presentation/d/13lJl1mRwnOJG9RzV-mQPHdv2htwWNGFS8KGA68oxTcc/edit?usp=sharing
   feedbacks:
     - "Covered the API pretty exhaustively, perhaps a demo would have made it better"
     - "Good, was expecting live coding"
