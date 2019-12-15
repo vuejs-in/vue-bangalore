@@ -29,7 +29,7 @@ agenda:
     - "The introduction to the API was good"
 - title: Blazing fast static sites with graphql and Vue
   description: Building static websites which is powered by Vue and graphql. We're using something called Gridsome. Gridsome makes it easy for developers to build modern websites, apps & PWAs that are fast by default.
-  type: show
+  type: talk
   speaker: Karthick Ramachandran <@Js_frontendguy>
   bio: Frontend Engineer at Rorodata. Fullstack developer. Vue and Laravel guy.
   deck: https://docs.google.com/presentation/d/13lJl1mRwnOJG9RzV-mQPHdv2htwWNGFS8KGA68oxTcc/edit?usp=sharing
@@ -38,7 +38,7 @@ agenda:
     - "Good, was expecting live coding"
 - title: Building high-performance geospatial analytics tools using Vue & Deck.gl
   description: Geospatial visualization and analytics is undoubtedly an important factor in helping grow any on-demand or location focused company. In this talk, we’ll take a quick tour of available geospatial visualization tools, touch a bit of science behind location data and learn how to build High-Performance WebGL based geospatial visualizations for the web using deck.gl. <br> Deck.gl is a powerful visualization library for the web. It utilizes GPU for making heavy computation and visualization more accessible right inside the browser. With deck.gl in hand, we’ll explore ways to make use of existing real-world location data and build beautiful visualizations that produce useful insights.
-  type: show
+  type: talk
   speaker: Musthaq Ahamad <@haxzie_>
   bio: UX Engineer at Locale.ai. Loves to write, design and build for the web.
   deck: https://docs.google.com/presentation/d/1fbLKzNDHRa49FvM0plu5wvIPjcjf1JJXmxxshNvuUvY/edit?usp=drivesdk
