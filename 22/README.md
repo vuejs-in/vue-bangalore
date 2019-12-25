@@ -12,7 +12,7 @@ photos:
   - https://secure.meetupstatic.com/photos/event/5/3/2/a/highres_487641290.jpeg
 agenda:
 - title: TBD
-  description: We are open for CFP. Please submit at [bit.ly/vueblrcfp](https://bit.ly/vueblrcfp)
+  description: We are open for CFP. Please submit at <a href="https://bit.ly/vueblrcfp">bit.ly/vueblrcfp</a>
 organizers:
   - Rahul Kadyan <@znck0>
   - Swapnil Agarwal <@SwapAgarwal>
