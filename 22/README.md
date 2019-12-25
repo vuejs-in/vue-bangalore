@@ -1,6 +1,6 @@
 ---
 id: 22
-title: To Be Decided (TBD)
+title: A New Day
 meetup: 267371946
 date: 2020-01-18
 time: 2 PM - 5 PM
@@ -9,7 +9,7 @@ venue:
   map: https://goo.gl/maps/AV6kgdhhKoVBpXev7
 townscript: vueblr-22
 photos:
-  - https://secure.meetupstatic.com/photos/event/d/2/5/4/highres_487613844.jpeg
+  - https://secure.meetupstatic.com/photos/event/5/3/2/a/highres_487641290.jpeg
 agenda:
 - title: TBD
   description: We are open for CFP. Please submit at [bit.ly/vueblrcfp](https://bit.ly/vueblrcfp)
