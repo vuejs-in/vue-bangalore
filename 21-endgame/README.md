@@ -21,6 +21,7 @@ agenda:
   speaker: Rahul Kadyan <@znck0>
   bio: Rahul Kadyan is a Software Engineer and Vue Core Team Member. He is super enthusiastic about building accessible web apps, the compilation process of .vue files, and tooling for the Vue ecosystem.
   description: A live coding demo to showcase Vue Composition API and maybe address FUD if that’s still relevant.
+  recording: https://www.youtube.com/embed/M0EPTww2sbY
   deck: https://speakerdeck.com/znck/head-first-into-composition-api
   feedbacks:
     - "Insight to vue3 great"
@@ -32,6 +33,7 @@ agenda:
   type: talk
   speaker: Karthick Ramachandran <@Js_frontendguy>
   bio: Frontend Engineer at Rorodata. Fullstack developer. Vue and Laravel guy.
+  recording: https://www.youtube.com/embed/hK8aMnaQwVI
   deck: https://docs.google.com/presentation/d/13lJl1mRwnOJG9RzV-mQPHdv2htwWNGFS8KGA68oxTcc/edit?usp=sharing
   feedbacks:
     - "Covered the API pretty exhaustively, perhaps a demo would have made it better"
@@ -41,6 +43,7 @@ agenda:
   type: talk
   speaker: Musthaq Ahamad <@haxzie_>
   bio: UX Engineer at Locale.ai. Loves to write, design and build for the web.
+  recording: https://www.youtube.com/embed/0xOn7qK_cr0
   deck: https://docs.google.com/presentation/d/1fbLKzNDHRa49FvM0plu5wvIPjcjf1JJXmxxshNvuUvY/edit?usp=drivesdk
   feedbacks:
     - "Liked the presentation and delivery"
