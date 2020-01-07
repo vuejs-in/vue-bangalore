@@ -14,6 +14,7 @@ agenda:
   - title: Vue - Zero To One Workshop
     type: workshop
     speaker: Nimit Bhargava <@NimitBhargava>
+    description: Keeping the January ritual of VueBLR, here's our #JanuaryWorkshop<br>This workshop will cover the basics of ES6 and move towards Vue.<br>It's the perfect place to start your journey to Vue and it's ecosystem. 🤩
 sponsors:
   - type: venue
     sponsor: GeekyAnts Software Pvt Ltd <@geekyants>
