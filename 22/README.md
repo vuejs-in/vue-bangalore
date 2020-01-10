@@ -5,11 +5,11 @@ meetup: 267371946
 date: 2020-01-18
 time: 2 PM - 5 PM
 venue:
-  name: Bangalore
-  map: https://goo.gl/maps/AV6kgdhhKoVBpXev7
+  name: Microsoft Research
+  map: https://goo.gl/maps/somCnruiD2n5V77p9
 townscript: vueblr-22
 photos:
-  - https://secure.meetupstatic.com/photos/event/5/3/2/a/highres_487641290.jpeg
+  - https://secure.meetupstatic.com/photos/event/5/b/b/d/highres_488003485.jpeg
 agenda:
 - title: TBD
   description: We are open for CFP. Please submit at <a href="https://bit.ly/vueblrcfp">bit.ly/vueblrcfp</a>
