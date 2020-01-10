@@ -14,7 +14,7 @@ agenda:
 - title: TBD
   description: We are open for CFP. Please submit at <a href="https://bit.ly/vueblrcfp">bit.ly/vueblrcfp</a>
 sponsors:
-  - type: Community Partner
+  - type: community
     sponsor: Reactor Bangalore <@MSFTReactorBlr>
 organizers:
   - Rahul Kadyan <@znck0>
