@@ -10,9 +10,19 @@ venue:
 townscript: vueblr-22
 photos:
   - https://secure.meetupstatic.com/photos/event/5/b/b/d/highres_488003485.jpeg
+  - https://secure.meetupstatic.com/photos/event/1/6/8/highres_488160360.jpeg
+  - https://secure.meetupstatic.com/photos/event/1/6/9/highres_488160361.jpeg
 agenda:
-- title: TBD
-  description: We are open for CFP. Please submit at <a href="https://bit.ly/vueblrcfp">bit.ly/vueblrcfp</a>
+- title: A Vue.js DevTools Primer
+  type: talk
+  description: We explore the various development-time features that the Vue.js DevTools provides ranging from inspecting our Vue.js component tree, finding state changes in Vuex and Vue Router and inspecting performance issues. There's a wealth of information here that is essential for every Vue.js developer to be fully productive at their work and this talk aims to demystify all these features.
+  bio: Just another geek. Front-end engineering at Flock, co-organizer at Vue Bangalore and forever in love with web technologies. Also exploring and trying to create great user experiences. I'm a huge Microsoft fan as well so hit me up if you want to chat or spar. ;)
+  speaker: Sangeeth Sudheer <@sangeeth96>
+- title: Design Systems in Vue
+  type: talk
+  description: A walkthrough of different Design Systems available in Vue ecosyste. By the end of the talk, you would be aware of different Design Systems, how to customize them, and can easily take decision on which one to pick up next for your project.
+  speaker: Nimit Bhargava <@nimitbhargava>
+  bio: A full stack engineer and someone who likes to tinker with web technologies. In my free time I like to help open source communities and also help VueBLR as a co organizer.
 sponsors:
   - type: community
     sponsor: Reactor Bangalore <@MSFTReactorBlr>
