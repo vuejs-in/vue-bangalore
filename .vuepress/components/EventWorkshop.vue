@@ -1,7 +1,8 @@
 <template>
   <section class="talk">
     <h3 class="title">{{ title }}</h3>
-    <EventSpeaker :speaker="speaker" />
+    <div v-if="description" v-html="description"></div>
+    <EventSpeaker v-for="speaker in allSpeakers" :speaker="speaker" />
     <ItemRow v-if="deck">
       <Icon name="deck" slot="icon" />
       <a :href="deck" target="_blank">Speaker Deck</a>
@@ -19,10 +20,15 @@
 
 <script>
 export default {
-  props: ['title', 'speaker', 'deck', 'issue', 'source'],
+  props: ['title', 'speaker', 'speakers', 'description', 'deck', 'issue', 'source'],
   filters: {
     filename (value) {
       return value.split('/').pop()
+    }
+  },
+  computed: {
+    allSpeakers() {
+      return this.speakers ? this.speakers : [this.speaker];
     }
   }
 }
@@ -34,10 +40,9 @@ export default {
 }
 .title::before {
   content: "Workshop:";
-  font-size: .5rem;
-  position: absolute;
-  top: -.6em;
-  opacity: .75;
+  padding-right: 10px;
+  display: inline-block;
+  text-decoration: underline;
 }
 </style>
 
