@@ -16,6 +16,7 @@ agenda:
 - title: A Vue.js DevTools Primer
   type: talk
   description: We explore the various development-time features that the Vue.js DevTools provides ranging from inspecting our Vue.js component tree, finding state changes in Vuex and Vue Router and inspecting performance issues. There's a wealth of information here that is essential for every Vue.js developer to be fully productive at their work and this talk aims to demystify all these features.
+  recording: https://www.youtube.com/embed/xkbstVRabs8
   deck: https://speakerdeck.com/sangeeth96/vue-dot-js-devtools-primer
   feedbacks:
     - "As a beginner this session was very helpful."
@@ -26,6 +27,7 @@ agenda:
 - title: Design Systems in Vue
   type: talk
   description: A walkthrough of different Design Systems available in Vue ecosyste. By the end of the talk, you would be aware of different Design Systems, how to customize them, and can easily take decision on which one to pick up next for your project.
+  recording: https://www.youtube.com/embed/SkP5xku6gII
   deck: http://bit.ly/vueblr22-slides
   feedbacks:
     - "Got an idea keep all the design components in a common place."
