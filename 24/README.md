@@ -1,7 +1,7 @@
 ---
 id: 24
 title: Vue-lentine
-meetup: 267371946
+meetup: 268168289
 date: 2020-02-22
 time: 2 PM - 5 PM
 townscript: vueblr-24
