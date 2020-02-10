@@ -19,8 +19,6 @@ agenda:
   speaker: Tarun Mangukiya <@tarunmangukiya>
   bio: Co-founder & CTO of Iconscout. He likes to work with emerging technologies like JavaScript, GraphQL, Serverless, DevOps and more. He loves teaching, traveling & reading.
 organizers:
-  - Rahul Kadyan <@znck0>
-  - Swapnil Agarwal <@SwapAgarwal>
   - Nimit Bhargava <@NimitBhargava>
   - Ruphaa Ganesh <@ruphaaganesh>
   - Sangeeth Sudheer <@sangeeth96>
