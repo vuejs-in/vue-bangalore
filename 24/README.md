@@ -16,7 +16,7 @@ agenda:
   description: Although if profound love for Vue and still do a lot of project using it, it was irresistible for me to try Svelte and the journey I had so far is very interesting. There concept of framework vs compiler could define the future of frontend.
   bio: Co-Founder of Nucarbn, a wearable device startup. I'm pro AGI, humane technology advocate and an obsessive design fanatic.
   speaker: Jerric Lyns John <@jerriclynsjohn>
-- title: 
+- title: Using GraphQL with REST APIs for state management
   type: talk
   description: Recently we're seeing much hype around GraphQL and its advantages over Vuex for easy state management. In this session, you'll learn how can you use GraphQL at client side for better state management & caching with traditional REST APIs. This can speed up development time and energy significantly.
   speaker: Tarun Mangukiya <@tarunmangukiya>
