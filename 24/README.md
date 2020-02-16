@@ -9,7 +9,7 @@ venue:
   map: https://goo.gl/maps/MKhM2nQZQsu1nWW1A
 townscript: vueblr-24
 photos:
-  - https://secure.meetupstatic.com/photos/event/7/a/8/e/highres_488671374.jpeg
+  - https://secure.meetupstatic.com/photos/event/c/e/0/3/highres_489052739.jpeg
 agenda:
 - title: My transition from Vue to Svelte
   type: talk
