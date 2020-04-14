@@ -11,7 +11,7 @@
 
     <main class="agenda">
       <EventGallery :photos="$page.frontmatter.photos" />
-
+      <div v-if="$page.frontmatter.description" v-html="$page.frontmatter.description"></div>
       <h2>Agenda</h2>
       <ul>
         <li v-for="(item, index) in $page.frontmatter.agenda" :key="index">
@@ -34,8 +34,10 @@
         <iframe :src="widget" frameborder="10" height="600" width="100%"></iframe>
       </section>
 
-      <h2>Sponsors</h2>
-      <EventSponsor v-for="(item, index) in $page.frontmatter.sponsors" :key="item.sponsor" v-bind="item" />
+      <section v-if="$page.frontmatter.sponsors && $page.frontmatter.sponsors.length">
+        <h2>Sponsors</h2>
+        <EventSponsor v-for="(item, index) in $page.frontmatter.sponsors" :key="item.sponsor" v-bind="item" />
+      </section>
 
       <h2>Organizers</h2>
       <EventSpeaker v-for="(item, index) in $page.frontmatter.organizers" :key="item" :speaker="item" />
