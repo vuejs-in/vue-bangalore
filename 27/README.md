@@ -23,7 +23,7 @@ photos:
 agenda:
   - title: "MEVN-CLI: Light speed setup for MEVN stack web apps"
     type: talk
-    speaker: James George
+    speaker: James George <@james_madhacks>
 organizers:
   - Vue Bangalore <@vueblr>
 
