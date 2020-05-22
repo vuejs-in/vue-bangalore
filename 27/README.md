@@ -6,11 +6,10 @@ description: |
   <p>📝 Agenda:</p>
   <p>2:00 - 2:15 PM: Get to know each other</p>
   <p>2:15 - 3:00 PM: Talk #1: MEVN-CLI: Light speed setup for MEVN stack web apps</p>
-  <p>3:00 - 3:10 PM: Break</p>
-  <p>3:10 - 3:50 PM: Talk #2: (TBA)</p>
-  <p>3:50 - 4:00 PM: Break (Enjoy the Vue!)</p>
-  <p>4:00 - 4:40 PM: Talk #3 (TBA)</p>
-  <p>Anyone can join!</p>
+  <p>3:00 - 3:45 PM: Talk #2: Infinite scrolling and infinite problems</p>
+  <p>3:45 - 4:30 PM: Talk #3: Optimizing Nuxt.js</p>
+  <p>4:30 - 5:00 PM: Talk #4: Docker for Vue.js Developers</p>
+  <p>Thanks to <a href="https://hasgeek.com">HasGeek</a> for partnering with us and helping us with the streaming setup. Do check them out!</p>
   <p>You can join the official Vue chat to ask the speaker questions!</p>
   <p>Join via Zoom: TBA: Keep 👀 this space</p>
 meetup: 270619003
@@ -24,9 +23,19 @@ agenda:
   - title: "MEVN-CLI: Light speed setup for MEVN stack web apps"
     type: talk
     speaker: James George <@james_madhacks>
+  - title: "Infinite scrolling and infinite problems"
+    type: talk
+    speaker: Satish Kumar <@skarefac>
+  - title: "Optimizing Nuxt.js"
+    type: talk
+    speaker: Tarun Mangukiya <@tarunmangukiya>
+    bio: Co-founder & CTO of Iconscout. He likes to work with emerging technologies like JavaScript, GraphQL, Serverless, DevOps and more. He loves teaching, traveling & reading.
+  - title: "Docker for Vue.js Developers"
+    type: talk
+    speaker: Sangeeth Sudheer <@sangeeth96>
+    bio: "Co-organizing VueBLR, making the web awesome at Flock and geeking out at tech"
 organizers:
   - Vue Bangalore <@vueblr>
-
 ---
 
 <EventPage />
