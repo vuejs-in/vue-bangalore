@@ -11,7 +11,7 @@ description: |
   <p>4:30 - 5:00 PM: Talk #4: Docker for Vue.js Developers</p>
   <p>Thanks to <a href="https://hasgeek.com">HasGeek</a> for partnering with us and helping us with the streaming setup. Do check them out!</p>
   <p>You can join the official Vue chat to ask the speaker questions!</p>
-  <p>Join via Zoom: TBA: Keep 👀 this space</p>
+  <p>Join via Zoom: <a href="https://zoom.us/j/91835587923?pwd=V1MrVjMzaHNqM2h2YUdSNnhESkNuZz09">https://zoom.us/j/91835587923?pwd=V1MrVjMzaHNqM2h2YUdSNnhESkNuZz09</a></p>
 meetup: 270619003
 date: 2020-05-23T14:00Z
 time: 2:00 PM - 5:00 PM
