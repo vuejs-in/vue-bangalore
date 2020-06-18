@@ -8,7 +8,8 @@
     <ItemRow v-if="feedbacks">
       <FeedbackGallery :feedbacks="feedbacks" />
     </ItemRow>
-    <EventSpeaker :speaker="speaker" :bio="bio" />
+    <EventSpeaker v-if="speaker" :speaker="speaker" :bio="bio" />
+    <EventSpeaker v-if="speakers" v-for="(item, index) in speakers" :key="item.name" :speaker="item.name" :bio="item.bio" />
     <ItemRow v-if="deck">
       <Icon name="deck" slot="icon" />
       <a :href="deck" target="_blank">Speaker Deck</a>
@@ -22,7 +23,7 @@
 
 <script>
 export default {
-  props: ['title', 'description', 'speaker', 'bio', 'deck', 'issue', 'recording', 'feedbacks'],
+  props: ['title', 'description', 'speaker', 'speakers', 'bio', 'deck', 'issue', 'recording', 'feedbacks'],
   filters: {
     filename (value) {
       return value.split('/').pop()
