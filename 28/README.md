@@ -10,7 +10,7 @@ description: |
   <p>3:30 - 4:00 PM: Vue.js Community Discussions!</p>
   <p>📹 Zoom link:</p>
   <p>You can join the official Vue chat to ask the speaker questions!</p>
-  <p>Join us live: TBA</p>
+  <p>Join us live: <a href="https://bit.ly/vueblr-28-zoom">https://bit.ly/vueblr-28-zoom</a></p>
   <p>PS. All times are in IST (+5:30 GMT)</p>
 meetup: 271369813
 date: 2020-06-20T14:00Z
@@ -19,6 +19,8 @@ venue:
   name: Online
 photos:
   - https://secure.meetupstatic.com/photos/event/c/5/1/e/highres_490910462.jpeg
+  - https://secure.meetupstatic.com/photos/event/f/8/highres_490920248.jpeg
+  - https://secure.meetupstatic.com/photos/event/f/7/highres_490920247.jpeg
 agenda:
   - title: "Guide of Gridsome from Reactjs Developer"
     type: talk
