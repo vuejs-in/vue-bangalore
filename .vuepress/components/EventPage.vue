@@ -26,7 +26,7 @@
 
         <p><strong>Date:</strong> {{ date.toDateString() }}</p>
         <p><strong>Time:</strong> {{ $page.frontmatter.time }}</p>
-        <p><strong>Venue:</strong> {{ $page.frontmatter.venue.name }} (<a :href="$page.frontmatter.venue.map" target="_blank" rel="noopener noreferrer">see on map</a>)</p>
+        <p><strong>Venue:</strong> {{ $page.frontmatter.venue.name }} <template v-if="!!$page.frontmatter.venue.map">(<a :href="$page.frontmatter.venue.map" target="_blank" rel="noopener noreferrer">see on map</a>)</template></p>
       </section>
 
       <section v-if="widget">
