@@ -25,7 +25,7 @@ export default {
 
     <div v-if="eventDate">
       <p v-if="venue">
-        <strong>Venue:</strong> {{ venue.name }} (<a :href="venue.map" target="_blank" rel="noopener noreferrer">see on map</a>) <br />
+        <strong>Venue:</strong> {{ venue.name }} <template v-if="!!venue.map">(<a :href="venue.map" target="_blank" rel="noopener noreferrer">see on map</a>)</template> <br />
         <strong>Time:</strong> {{ eventDate.toDateString() }}, {{ time }}
       </p>
 
