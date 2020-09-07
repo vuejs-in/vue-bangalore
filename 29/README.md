@@ -7,7 +7,7 @@ description: |
   <p>2:00 - 2:05 PM: Get to know each other</p>
   <p>2:05 - 2:45 PM: Talk #1: Experience of the new Vue by Rahul Kadyan</p>
   <p>2:45 - 3:30 PM: Talk #2: Building Modern Modular Web Applications by Daniel Madalitso Phiri</p>
-  <p>3:30 - 4:00 PM: Talk #3: TBA</p>
+  <p>3:30 - 4:00 PM: Talk #3: Vue 3 and Vuex 4 with TypeScript by Arnav Gupta</p>
   <p>📹 VCS link:</p>
   <p>You can join the official Vue chat to ask the speaker questions!</p>
   <p>Join us live: TBA</p>
@@ -21,6 +21,7 @@ photos:
   - https://secure.meetupstatic.com/photos/event/5/6/9/c/600_492202172.jpeg
   - https://secure.meetupstatic.com/photos/event/5/6/9/d/600_492202173.jpeg
   - https://secure.meetupstatic.com/photos/event/5/6/9/f/600_492202175.jpeg
+  - https://secure.meetupstatic.com/photos/event/a/7/8/a/600_492222890.jpeg
 agenda:
   - title: "Experience of the new Vue"
     type: talk
@@ -32,6 +33,11 @@ agenda:
     description: "\"Hey we need to make some changes to accommodate the new content\" -- No developer likes to hear this. As far fetched of an idea it may seem, you can write your frontend code and have all sorts of new content added to your CMS without having to re-write the frontend over and over. I will take attendees through building a modular Nuxt web application, that queries a Headless CMS and takes away the need to constantly change your frontend code to accommodate new content."
     speaker: Daniel Madalitso Phiri <@malgamves>
     bio: "Daniel is a retired Podcaster, Lorde super fan and Software Developer currently a Developer Advocate at Strapi."
+  - title: "Vue 3 and Vuex 4 with TypeScript"
+    speaker: Arnav Gupta <@championswimmer>
+    type: talk
+    description: "We know that Vue 3 and Vue 4 are written in TypeScript themselves, but creating apps with them is possible in plain JS as well - which is still the default language in the guides. But, if we chose to go full-blown TypeScript in our apps too, we can take advantage of 100% natively generated typings, and a much better experience than Vue 2 + Typescript."
+    bio: "Arnav, known more on Github as \"championswimmer\" is the author of two very popular VueJS ecosystem libraries–vuex-persist and vuex-module-decorators. Arnav has been an advocate of using Vue with TypeScript for the last many years, and has contributed numerous guides on using Vue, Vuex and Nuxt in a strongly typed TypeScript-driven environment."
 organizers:
   - Vue Bangalore <@vueblr>
 ---
