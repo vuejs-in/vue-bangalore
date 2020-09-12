@@ -8,9 +8,8 @@ description: |
   <p>2:05 - 2:45 PM: Talk #1: Experience of the new Vue by Rahul Kadyan</p>
   <p>2:45 - 3:30 PM: Talk #2: Building Modern Modular Web Applications by Daniel Madalitso Phiri</p>
   <p>3:30 - 4:00 PM: Talk #3: Vue 3 and Vuex 4 with TypeScript by Arnav Gupta</p>
-  <p>📹 VCS link:</p>
-  <p>You can join the official Vue chat to ask the speaker questions!</p>
-  <p>Join us live: TBA</p>
+  <p>📹 YouTube Stream link: <a href="https://bit.ly/vueblr29-stream">https://bit.ly/vueblr29-stream</a></p>
+  <p>You can post your questions in the YouTube chat.</p>
   <p>PS. All times are in IST (+5:30 GMT)</p>
 meetup: 273080344
 date: 2020-09-12T14:00Z
