@@ -9,6 +9,8 @@ description: |
   <p>3:30 - 4:15 PM: Talk #2: Vite.js —Lightning-fast Dev Workflows by Sangeeth Sudheer</p>
   <p>4:15 - 4:30 PM: Discussion on Tailwind/Vue 3/Vite and more!</p>
   <p>PS. All times are in IST (+5:30 GMT)</p>
+  <p>📹 YouTube Stream link: <a href="https://bit.ly/vueblr30-stream">https://bit.ly/vueblr30-stream</a></p>
+  <p>You can post your questions and discuss with us in the YouTube chat.</p>
 meetup: 276348184
 date: 2021-03-27T14:30Z
 time: 2:30 PM - 4:30 PM
