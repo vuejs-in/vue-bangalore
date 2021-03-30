@@ -1,27 +1,29 @@
-<div align="center" style="text-align: center">
-  <img src="https://blr.vue.community/logo.png" width="100" />
-  <h1>Vue Bangalore</h1>
-  <p>A Vue meetup in Bangalore, India.</p>
+<div style="text-align: center">
+  <img
+    srcset="/logo-150x150.png,
+            /logo-300x300.png 1.5x"
+    src="/logo-300x300.png"
+    width="100"
+    height="100"
+    alt="VueBLR Logo" />
+  <h1>Vue.js Bangalore // VueBLR</h1>
+  <p>The <em>de-facto</em> Vue.js Community in Bengaluru, India</p>
 </div>
 
-## What?
+<DiscordBanner />
 
-Vue is the approachable, versatile and performant progressive javascript framework.
+## Is this for me?
 
-## Why?
+VueBLR is the *de-facto* Vue.js community in Bangalore, India. We host monthly meetups covering the ecosystem of Vue.js libraries and applications, as well as help the community come together via various social platforms. We intend to spread the awesomeness of Vue.js, how it empowers developers to build powerful, yet easy to maintain applications and how it inspires the community to come together to share and collaborate.
 
-You should attend if:
+Here are a few reasons we think you should join VueBLR:
 
-- You're new to frontend / frameworks, e.g.
-  - Backend engineers
-  - Folks working with jQuery
-  - Folks working on Angular / React but are keen to explore the buzz around Vue!
-- You're about to start a new project, e.g.
-  - Working in a start-up where you want to quickly experiment with things (Vue is an easy-to-pick frontend framework with documented ways of doing common things)
-  - Working in a large company and are evaluating options
-- You're already working on Vue and want to connect with like-minded people
-
-We host regular full-day workshops as well as a getting-started workshop at the start of every meetup.
+- You want to build powerful single-page applications but also not have to pull your hair out to maintain it
+- Same as above but you want it to be server-rendered. Well, Vue can do that too!
+- You are a backend engineer and want to pick a framework to learn without having to learn crazy new syntax. Vue.js is beloved by front-end and backend developers all around the world.
+- You are considering options to pick a framework for your start-up/company. Join the community and we think you'll pick Vue.
+- You're already working on Vue and want to connect with like-minded people, learn all-new stuff and stay on the bleeding edge. Well, what are you waiting for then?
+- You think you know Vue well enough that you would like to share your ideas and thoughts with the community. Well, how about you [speak at our meetup?](https://bit.ly/vueblrcfp)
 
 ## Upcoming Meetups
 
@@ -33,21 +35,10 @@ We host regular full-day workshops as well as a getting-started workshop at the 
 
 [See all events](/events)
 
-## Get in Touch
-
-Use any of the following methods to communicate with us:
-
-- Make a pull request.
-- Open or comment in an issue.
-- Submit a talk proposal (prefix with "Talk: ").
-- Submit a workshop proposal (prefix with "Workshop: ").
-- Request a talk (prefix with "Request: ").
-- Join the group on meetups to stay updated with info of the next meetups.
-
 ## Organizers
 
-- Rahul Kadyan - [@znck0](https://github.com/znck)
-- Swapnil Agarwal - [@swapagarwal](https://github.com/swapagarwal)
+- Sangeeth Sudheer - [@sangeeth96](https://github.com/sangeeth96)
 - Nimit Bhargava - [@nimitbhargava](https://github.com/nimitbhargava)
 - Ruphaa Ganesh - [@ruphaa](https://github.com/ruphaa)
-- Sangeeth Sudheer - [@sangeeth96](https://github.com/sangeeth96)
+- (Former) Rahul Kadyan - [@znck0](https://github.com/znck)
+- (Former) Swapnil Agarwal - [@swapagarwal](https://github.com/swapagarwal)

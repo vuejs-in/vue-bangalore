@@ -1,6 +1,6 @@
 ---
 id: 30
-title: "VueBLR Online"
+title: "VueBLR Online #30"
 description: |
   <p>Hello friends! 👋 It's been a while, but we're back and there's A LOT to talk about. We're kicking off our first meetup for the year, this March so get excited!</p>
   <p>📝 Schedule:</p>

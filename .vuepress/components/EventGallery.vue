@@ -23,6 +23,7 @@ export default {
 }
 
 .img {
+  max-height: 500px;
   object-fit: contain;
 }
 </style>
