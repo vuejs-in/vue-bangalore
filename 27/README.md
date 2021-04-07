@@ -1,6 +1,6 @@
 ---
 id: 27
-title: Vue.js India (vue-india)
+title: 'VueBLR Online #27'
 description: |
   <p>We're getting ready for a new online meetup experience for the VueBLR community. Join us and the many Vue enthusiasts on Saturday, the 23rd of May for some great sessions and discussions.</p>
   <p>📝 Agenda:</p>

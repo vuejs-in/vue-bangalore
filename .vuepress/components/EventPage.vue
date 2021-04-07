@@ -2,8 +2,21 @@
   <div class="event">
     <header>
       <h1 class="title">
-        <a :href="'https://meetup.com/vue-bangalore/events/' + $page.frontmatter.meetup" target="_blank">
-          <span class="title-hashtag">VueBLR #{{ $page.frontmatter.id }}</span>
+        <a
+          class="meetup-link"
+          :href="
+            'https://meetup.com/vue-bangalore/events/' +
+            $page.frontmatter.meetup
+          "
+          target="_blank"
+        >
+          <img
+            height="40"
+            width="40"
+            src="/meetup_logo.png"
+            alt="RSVP on Meetup (not mandatory)"
+            title="RSVP on Meetup (not mandatory)"
+          />
         </a>
         <span class="title-text">{{ $page.frontmatter.title }}</span>
       </h1>
@@ -11,13 +24,21 @@
 
     <main class="agenda">
       <EventGallery :photos="$page.frontmatter.photos" />
-      <div v-if="$page.frontmatter.description" v-html="$page.frontmatter.description"></div>
+      <div
+        v-if="$page.frontmatter.description"
+        v-html="$page.frontmatter.description"
+      ></div>
       <h2>Agenda</h2>
-      <ul>
-        <li v-for="(item, index) in $page.frontmatter.agenda" :key="index">
-          <component :is="use(item.type)" v-bind="item" />
-        </li>
-      </ul>
+      <template
+        v-if="$page.frontmatter.agenda && $page.frontmatter.agenda.length"
+      >
+        <ul>
+          <li v-for="(item, index) in $page.frontmatter.agenda" :key="index">
+            <component :is="use(item.type)" v-bind="item" />
+          </li>
+        </ul>
+      </template>
+      <p v-else>TBA</p>
     </main>
 
     <footer>
@@ -26,21 +47,46 @@
 
         <p><strong>Date:</strong> {{ date.toDateString() }}</p>
         <p><strong>Time:</strong> {{ $page.frontmatter.time }}</p>
-        <p><strong>Venue:</strong> {{ $page.frontmatter.venue.name }} <template v-if="!!$page.frontmatter.venue.map">(<a :href="$page.frontmatter.venue.map" target="_blank" rel="noopener noreferrer">see on map</a>)</template></p>
+        <p>
+          <strong>Venue:</strong> {{ $page.frontmatter.venue.name }}
+          <template v-if="!!$page.frontmatter.venue.map"
+            >(<a
+              :href="$page.frontmatter.venue.map"
+              target="_blank"
+              rel="noopener noreferrer"
+              >see on map</a
+            >)</template
+          >
+        </p>
       </section>
 
       <section v-if="widget">
         <h2>Register</h2>
-        <iframe :src="widget" frameborder="10" height="600" width="100%"></iframe>
+        <iframe
+          :src="widget"
+          frameborder="10"
+          height="600"
+          width="100%"
+        ></iframe>
       </section>
 
-      <section v-if="$page.frontmatter.sponsors && $page.frontmatter.sponsors.length">
+      <section
+        v-if="$page.frontmatter.sponsors && $page.frontmatter.sponsors.length"
+      >
         <h2>Sponsors</h2>
-        <EventSponsor v-for="(item, index) in $page.frontmatter.sponsors" :key="item.sponsor" v-bind="item" />
+        <EventSponsor
+          v-for="(item, index) in $page.frontmatter.sponsors"
+          :key="item.sponsor"
+          v-bind="item"
+        />
       </section>
 
       <h2>Organizers</h2>
-      <EventSpeaker v-for="(item, index) in $page.frontmatter.organizers" :key="item" :speaker="item" />
+      <EventSpeaker
+        v-for="(item, index) in $page.frontmatter.organizers"
+        :key="item"
+        :speaker="item"
+      />
     </footer>
   </div>
 </template>
@@ -48,33 +94,48 @@
 <script>
 export default {
   methods: {
-    use (type) {
+    use(type) {
       switch (type) {
-        case 'talk': return 'EventTalk';
-        case 'show': return 'EventShow';
-        case 'tell': return 'EventTell';
-        case 'workshop': return 'EventWorkshop';
-        case 'Q&A': return 'EventQuestion';
-        default: return 'EventDefault';
+        case "talk":
+          return "EventTalk";
+        case "show":
+          return "EventShow";
+        case "tell":
+          return "EventTell";
+        case "workshop":
+          return "EventWorkshop";
+        case "Q&A":
+          return "EventQuestion";
+        default:
+          return "EventDefault";
       }
-    }
+    },
   },
   computed: {
     date() {
-      return this.$page.frontmatter.date ? new Date(this.$page.frontmatter.date) : null
+      return this.$page.frontmatter.date
+        ? new Date(this.$page.frontmatter.date)
+        : null;
     },
     widget() {
-      return this.$page.frontmatter.townscript ? "https://www.townscript.com/widget/" + this.$page.frontmatter.townscript : null;
-    }
-  }
-}
+      return this.$page.frontmatter.townscript
+        ? "https://www.townscript.com/widget/" +
+            this.$page.frontmatter.townscript
+        : null;
+    },
+  },
+};
 </script>
 
 <style scoped>
 .title-hashtag {
-  opacity: .75;
+  opacity: 0.75;
   display: inline-block;
   margin-right: 1rem;
+}
+
+.meetup-link {
+  vertical-align: middle;
 }
 </style>
 

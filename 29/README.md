@@ -1,6 +1,6 @@
 ---
 id: 29
-title: Vue.js Bangalore (VueBLR)
+title: 'VueBLR Online #29'
 description: |
   <p>Hi y'all! It's <a href="https://youtu.be/Gs069dndIYk">September</a> and we have another fantastic online meetup in the works. Check out the schedule for all the details.</p>
   <p>📝 Schedule:</p>

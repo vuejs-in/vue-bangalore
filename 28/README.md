@@ -1,6 +1,6 @@
 ---
 id: 28
-title: Vue.js Bangalore (VueBLR)
+title: 'VueBLR Online #28'
 description: |
   <p>We're keeping the ball rollin' and having our second remote meetup this month. We'll have our usual lineup of great speakers and great talks—all experienced at the comfort of your homes.</p>
   <p>📝 Schedule:</p>

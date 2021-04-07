@@ -54,7 +54,7 @@ module.exports = {
     updatePopup: true
   },
   themeConfig: {
-    logo: '/logo.png',
+    logo: '/logo-150x150.png',
     repo: 'vuejs-in/vue-bangalore',
     docsDir: '/',
     locales: {
@@ -80,16 +80,16 @@ module.exports = {
             link: 'http://bit.ly/vueblrcfp'
           },
           {
-            text: 'Newsletter',
-            link: 'https://buttondown.email/VueBLR'
-          },
-          {
             text: 'Code of Conduct',
             link: 'https://github.com/VueJS-IN/vue-bangalore/blob/master/CODE_OF_CONDUCT.md'
           },
           {
             text: 'Join Us',
             items: [
+              {
+                text: 'Discord',
+                link: 'https://bit.ly/vueblr-discord'
+              },
               {
                 text: 'Meetup',
                 link: 'https://meetup.com/vue-bangalore'
