@@ -1,7 +1,7 @@
 ---
 id: 30
 title: "VueBLR Online #30"
-description: |
+event_description: |
   <p>Hello friends! 👋 It's been a while, but we're back and there's A LOT to talk about. We're kicking off our first meetup for the year, this March so get excited!</p>
   <p>📝 Schedule:</p>
   <p>2:30 - 2:45 PM: Intro</p>

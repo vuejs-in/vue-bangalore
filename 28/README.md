@@ -1,7 +1,7 @@
 ---
 id: 28
 title: 'VueBLR Online #28'
-description: |
+event_description: |
   <p>We're keeping the ball rollin' and having our second remote meetup this month. We'll have our usual lineup of great speakers and great talks—all experienced at the comfort of your homes.</p>
   <p>📝 Schedule:</p>
   <p>2:00 - 2:05 PM: Get to know each other</p>

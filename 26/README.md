@@ -1,7 +1,7 @@
 ---
 id: 26
 title: Vue.js Global (vue-global)
-description: |
+event_description: |
   <p>Come to the first ever Vue Global Meetup event!</p>
   <p>We want to bring all Vue communities together and create a place where we can all share resources and knowledge. Every location can provide a speaker as we broadcast around the world bringing new and seasoned speakers to everyone!</p>
   <p>The first event will include collaboration between the following communities:</p>

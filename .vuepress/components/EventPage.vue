@@ -25,8 +25,8 @@
     <main class="agenda">
       <EventGallery :photos="$page.frontmatter.photos" />
       <div
-        v-if="$page.frontmatter.description"
-        v-html="$page.frontmatter.description"
+        v-if="$page.frontmatter.event_description"
+        v-html="$page.frontmatter.event_description"
       ></div>
       <h2>Agenda</h2>
       <template
