@@ -99,10 +99,6 @@ module.exports = {
                 link: 'https://twitter.com/vueblr'
               },
               {
-                text: 'WhatsApp',
-                link: 'http://bit.ly/vueblr-whatsapp'
-              },
-              {
                 text: 'LinkedIn',
                 link: 'https://www.linkedin.com/company/vueblr'
               },
