@@ -1,7 +1,7 @@
 ---
 id: 29
 title: 'VueBLR Online #29'
-description: |
+event_description: |
   <p>Hi y'all! It's <a href="https://youtu.be/Gs069dndIYk">September</a> and we have another fantastic online meetup in the works. Check out the schedule for all the details.</p>
   <p>📝 Schedule:</p>
   <p>2:00 - 2:05 PM: Get to know each other</p>

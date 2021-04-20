@@ -1,7 +1,7 @@
 ---
 id: 27
 title: 'VueBLR Online #27'
-description: |
+event_description: |
   <p>We're getting ready for a new online meetup experience for the VueBLR community. Join us and the many Vue enthusiasts on Saturday, the 23rd of May for some great sessions and discussions.</p>
   <p>📝 Agenda:</p>
   <p>2:00 - 2:15 PM: Get to know each other</p>

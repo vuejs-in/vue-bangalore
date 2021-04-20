@@ -1,7 +1,7 @@
 ---
 id: 31
 title: "VueBLR Online #31"
-description: |
+event_description: |
   <p>We're gearing up for the April meetup. Want to be in the spotlight? <a href="https://bit.ly/vueblrcfp">Submit your talk here.</a></p>
   <p>📝 Schedule:</p>
     <p>2:30 - 2:45 PM: Intro</p>
