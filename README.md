@@ -1,8 +1,8 @@
 <div style="text-align: center">
   <img
-    srcset="/logo-150x150.png,
-            /logo-300x300.png 1.5x"
-    src="/logo-300x300.png"
+    srcset=".vuepress/public/logo-150x150.png,
+            .vuepress/public/logo-300x300.png 1.5x"
+    src=".vuepress/public/logo-300x300.png"
     width="100"
     height="100"
     alt="VueBLR Logo" />
@@ -33,7 +33,7 @@ Here are a few reasons we think you should join VueBLR:
 
 <PastEvents :limit="5" />
 
-[See all events](/events)
+[See all events](/events.md)
 
 ## Organizers
 
